@@ -1,0 +1,10 @@
+# Professional bodies
+
+
+
+* [Association of Professional Healthcare Analysts (AphA)](https://www.aphanalysts.org/about-apha/) - The organisation’s aim is to raise the profile of healthcare analysts and provide a professional support network.
+* [BCS - The Chartered Institute of IT](https://www.bcs.org/) - Champions the interests of IT professionals through sharing expertise, providing CPD and qualifications, and setting industry standards. BCS does not specialise in supporting those working in health and social care, however the range of IT professionals and service areas it supports is wide; from technical and systems development, to information sharing and data analysis.
+* [Institute of Health Records and Information Management (IHRIM)](https://www.ihrim.co.uk/) - Provides members with information on legislation, best practice and current affairs for people working in health records, clinical coding or information governance. IHRIM also offers qualifications for health records and health information professionals.
+* [Royal Statistical Society](https://www.rss.org.uk/) - The Society promotes the importance of statistics and data. A professional body for all statisticians and data analysts. Advocate on the key role of statistics and data in society, and work to ensure that policy formulation and decision making are informed by evidence for the public good.
+* [Society for IT Management (SOCITM)](https://socitm.net/) - Represents leaders and managers using information and digital technology to benefit people and communities. It provides members with professional development, peer support and research to support organisational improvements. Other professional bodies can support the roles identified, but SOCITM specialises in leadership.
+* [The Operational Research Society](https://www.theorsociety.com/) - A member-led organisation supporting professional operational researchers across industries and academia. The Society promotes the understanding and use of operational research in all areas of life, including industry, business, government, health and education.

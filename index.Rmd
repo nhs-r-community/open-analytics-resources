@@ -1,5 +1,5 @@
 --- 
-title: "Bookdown template"
+title: " Open Analytics Resources"
 author: "Zoë Turner"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

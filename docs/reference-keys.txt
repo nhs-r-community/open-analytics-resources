@@ -2,10 +2,11 @@ intro
 technical-notes
 forum-groups
 slack
-south-west-local
+platforms
 national-and-international
+south-west-local
 codes-of-practice-regulation-and-guidance
-relevant-projects-and-organisations
+projects-and-organisations
 uk
 south-west-uk
 midlands
@@ -26,3 +27,5 @@ training-apprenticeship-schemes
 professional-bodies
 knowledge-resources
 bringing-nhs-data-analysis-into-the-21st-century
+ethics-resources
+groups

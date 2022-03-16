@@ -32,8 +32,6 @@ The Corona Tech Handbook provides a good overview of information about Corona re
 
 ## Data
 
-
-
 * Emergency Care Data Set - [ECDS latest update](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/emergency-care-data-set-ecds/ecds-latest-update)
 * Gov.UK - [Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/)
 * NPC - [Interactive COVID-19 Data for Charities and Funders](https://www.thinknpc.org/resource-hub/update-interactive-covid-19-data-for-charities-and-funders/)

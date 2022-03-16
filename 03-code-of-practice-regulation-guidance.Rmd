@@ -18,8 +18,6 @@
 
 [Government Analysis Functional Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) - “The purpose of the Government Analysis Functional Standard is to set expectations for the planning and undertaking of analysis across government”
 
-[Government Digital Service - Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020) - “The Data Ethics Framework guides appropriate and responsible data use in government and the wider public sector. It helps public servants understand ethical considerations, address these within their projects, and encourages responsible innovation.”
-
 [Guidance - PHE Data and Analysis Tools A-Z](https://www.gov.uk/government/publications/phe-data-and-analysis-tools-a-to-z/phe-data-and-analysis-tools-a-to-z) - Data and analysis tools from across Public Health England (previously known as the 'Data and knowledge gateway').
 
 [HSCIC Guide to Confidentiality (2013)](http://static.ukcgc.uk/docs/HSCIC-guide-to-confidentiality.pdf) - Shows how health and care workers what they should do and why, to share information safely while following rules on confidentiality.

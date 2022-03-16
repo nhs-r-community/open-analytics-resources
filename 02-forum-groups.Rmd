@@ -1,0 +1,7 @@
+# Slack
+
+[Government Data Science](https://govdatascience.slack.com/#/) - requires a recognised email address and not every NHS/Local Authority is listed. However, `nhs.net` is acceptable. 
+
+[NHS-R Community](https://nhsrcommunity.slack.com) - predominantly R related but many channels like Git, Python and Ethics. Membership is open for anyone interested in health and social care.
+
+

@@ -1,54 +1,41 @@
 # Training and development opportunities
 
-[Note: the focus of this list is training and development in the region for those courses where you are required to be present. Others are online. This is by no means a comprehensive list]
+### NHS-R Community
+[NHS-R Community](https://nhsrcommunity.com/) - record all webinars and have conference talks and workshops from 2020 onwards found through the website which links to [YouTube](https://nhsrcommunity.com/). Introduction to R and R Studio training is being provided by volunteers each month with more training always encouraged and listed on the website.
+
+### Future Learn
+* [Data Science for Healthcare: Using Real World Evidence](https://www.futurelearn.com/courses/data-science-healthcare)
+* [Health data analytics](https://www.futurelearn.com/courses/eit-health-data-analytics)
+* [Quality Improvement in Healthcare: the Case for Change](https://www.futurelearn.com/courses/quality-improvement)
+
+### University of Bristol
+* [Data Linkage](https://www.bristol.ac.uk/medical-school/study/short-courses/data-linkage/)
+* [Improving your Stata: data management, publication-quality outputs, and automating tasks](https://www.bristol.ac.uk/medical-school/study/short-courses/improving-your-stata-data-management-publication-quality-outputs-and-automating-tasks/)
+* [Introduction to R](https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-r/)
+* [Introduction to Stat](https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-stata/)
+
+### University of West of England
+* [Big Data](https://courses.uwe.ac.uk/Z41000093/big-data) 
+* [Introduction to R ](https://courses.uwe.ac.uk/Z41000088/introduction-to-r)
+* [Introduction to SPSS ](https://courses.uwe.ac.uk/Z41000008/introduction-to-spss)
+* [Linked, Open data](https://courses.uwe.ac.uk/Z41000096/linked-open-data)
+* [Machine Learning and Predictive Analytics](https://courses.uwe.ac.uk/Z41000092/machine-learning-and-predictive-analytics)
 
 
-## Short Courses
+### Funding {#funding}
 
-
-
-* Future Learn
-    * [Data Science for Healthcare: Using Real World Evidence](https://www.futurelearn.com/courses/data-science-healthcare)
-    * [Health data analytics](https://www.futurelearn.com/courses/eit-health-data-analytics)
-    * [Quality Improvement in Healthcare: the Case for Change](https://www.futurelearn.com/courses/quality-improvement)
-* University of Bristol
-    * [Data Linkage](https://www.bristol.ac.uk/medical-school/study/short-courses/data-linkage/)
-    * [Improving your Stata: data management, publication-quality outputs, and automating tasks](https://www.bristol.ac.uk/medical-school/study/short-courses/improving-your-stata-data-management-publication-quality-outputs-and-automating-tasks/)
-    * [Introduction to R](https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-r/)
-    * [Introduction to Stat](https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-stata/)
-* University of West of England
-    * [Big Data](https://courses.uwe.ac.uk/Z41000093/big-data) 
-    * [Introduction to R ](https://courses.uwe.ac.uk/Z41000088/introduction-to-r)
-    * [Introduction to SPSS ](https://courses.uwe.ac.uk/Z41000008/introduction-to-spss)
-    * [Linked, Open data](https://courses.uwe.ac.uk/Z41000096/linked-open-data)
-    * [Machine Learning and Predictive Analytics](https://courses.uwe.ac.uk/Z41000092/machine-learning-and-predictive-analytics)
-
-
-## Degrees
-
-
-
-* University of Bath
-    * [Data Science MSc](https://www.bath.ac.uk/courses/postgraduate-2019/taught-postgraduate-courses/msc-data-science/)
-* University of Bristol
-    * [MSc Advanced Computing - Machine Learning, Data Mining and High-Performance Computing](https://www.bristol.ac.uk/study/postgraduate/2019/eng/msc-adv-computing-machine-learning/)
-* PHD opportunities: [https://www.bristol.ac.uk/cdt/digital-health/](https://www.bristol.ac.uk/cdt/digital-health/)
-* University of Derby
-    * [MSc Big Data Analytics](https://www.derby.ac.uk/postgraduate/computing-courses/big-data-analytics-msc/)
-
+[HDRUK](#UKProjects) fund [Masters Courses](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/masters-programme/) at particular Universities. 
 
 ## Learning Resources
 
-
-
 * [UK GOV- Government Analysis Function - Learning Curriculum](https://www.gov.uk/guidance/government-analysis-function-af-learning-curriculum) - “Whether you’re an experienced government analyst looking to refresh or develop your skills, or brand new to your role, a member of one (or more) of the analytical professions or not, the AF Learning Curriculum has something for everyone.”
+
+* [Government Statistical Service online training](https://gss.civilservice.gov.uk/learning-development/)
 
 
 ## Training / Apprenticeship Schemes
 
-
-
-* Graduate Management Training Scheme: Health Analysis 
+* [NHS Graduate Management Training Scheme: Health Analysis](https://www.graduates.nhs.uk/scheme/health-analysis/) 
 * Apprenticeships: [Level 4 Data Analyst](https://www.qa.com/course-catalogue/courses/data-analyst-level-4-apprenticeship-programme-england-qaadanl4/#:~:text=Our%20Data%20Analyst%20Level%204,range%20of%20stakeholders%20and%20customers.)
 * Apprenticeships: [Level 6 (Integrated degree) Data Scientist](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-scientist-(integrated-degree)-v1-0)
 

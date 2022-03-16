@@ -7,7 +7,7 @@ national-and-international
 south-west-local
 codes-of-practice-regulation-and-guidance
 projects-and-organisations
-uk
+UKProjects
 south-west-uk
 midlands
 international
@@ -20,8 +20,11 @@ learning-the-lessons
 tools-and-resources
 software
 training-and-development-opportunities
-short-courses
-degrees
+nhs-r-community
+future-learn
+university-of-bristol
+university-of-west-of-england
+funding
 learning-resources
 training-apprenticeship-schemes
 professional-bodies

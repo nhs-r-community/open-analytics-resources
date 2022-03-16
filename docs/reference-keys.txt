@@ -1,15 +1,15 @@
 intro
 technical-notes
-forum-groups
+groups
 slack
 platforms
-national-and-international
+community-groups
 south-west-local
+midlands
 codes-of-practice-regulation-and-guidance
 projects-and-organisations
 UKProjects
 south-west-uk
-midlands
 international
 featured-projects
 covid-19-specific-resources
@@ -31,4 +31,4 @@ professional-bodies
 knowledge-resources
 bringing-nhs-data-analysis-into-the-21st-century
 ethics-resources
-groups
+groups-1

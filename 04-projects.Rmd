@@ -17,8 +17,6 @@
 
 ## South West UK
 
-
-
 * [One Care](https://onecare.org.uk/) is a GP-led organisation that represents and supports practices in Bristol, North Somerset and South Gloucestershire (BNSSG). It is a Community Interest Company that provides accurate data and business intelligence to support population health management, patient risk management, and continuity of care. 
 * The Clinical Commissioning Group and wider Sustainability and Transformation Partnership (STP) is undertaking work on how advanced analytics and AI can support the local health service; and is developing local population health analytics function with development of a BNSSG population dataset. 
 * Patient and public 'digital critical friends’. These are members of the public who have participated in training developed by People in Health West of England (PHWE) and Bristol Health Partners, on digital health and the uses of data. The aim of this work is to create a group of public contributors who can meaningfully contribute to discussions about digital health and data use.
@@ -31,13 +29,6 @@
 * The University of Bristol is home to the data focused [Jean Golding Institute](http://www.bristol.ac.uk/golding/), and the [Intelligent Systems Lab](https://intelligentsystems.bristol.ac.uk/). Bristol University has partnered with the Alan Turing Institute. The University of West of England hosts the [Artificial Intelligence Group](https://www1.uwe.ac.uk/newsandevents/expertsdirectory/artificialintelligence.aspx) with high profile national and international projects; and, 
 * A range of other research activities are being conducted under the auspices of [National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West (NIHR CLAHRC West)](https://clahrc-west.nihr.ac.uk/). For example, their study on the[ impact of digital tools in primary care](http://www.bristol.ac.uk/primaryhealthcare/news/2018/impact-of-digital-health-tools-in-primary-care.html). 
 * [The West of England Academic Health Science Network](https://www.weahsn.net/our-work/connecting-data/) are joining up the health services across the West of England through the[ Connecting Data for Patient Benefit ](https://www.weahsn.net/our-work/connecting-data/case-study-connecting-data-for-patient-benefit/)programme. This is helping to make sure that health and community care professionals are fully informed, productivity and efficiency is maximised, patients’ safety is optimised and the best possible care is provided to our service users.
-
-	
-
-
-## Midlands
-
-* [The Strategy Unit ](https://www.strategyunitwm.nhs.uk/) - The Strategy Unit is a specialist NHS team, based in Midlands and Lancashire Commissioning Support Unit. They provide high-quality, multi-disciplinary analytical work as well as host the [Midlands Analyst Network](https://www.midlandsdecisionsupport.nhs.uk/communities-of-practice/midlands-analyst-network/) which is a fornightly virtual MS Teams meeting which is open to Network members.
 
 ## International
 

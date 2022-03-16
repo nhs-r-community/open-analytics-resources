@@ -14,9 +14,9 @@ description: "This is a bookdown template."
 
 # Open Analytics Resources for Health and Care {#intro}
 
-Originally a [Google document](https://docs.google.com/document/d/15unzokDyUQR_YLWFqBwVvds3C6B69sZn_3OQro9gB3E/edit#) is supported by the [Association of professional Healthcare Analysts (ApHA)](https://www.aphanalysts.org/), [This Equals](http://thisequals.co.uk/) and [Keyah Consulting](https://keyahconsulting.com/), in collaboration with the [Health Foundation](https://health.org.uk/), released under a CC-BY-SA licence. Attributions to ApHA 2020. This document is still active.
+Originally a [Google document](https://docs.google.com/document/d/15unzokDyUQR_YLWFqBwVvds3C6B69sZn_3OQro9gB3E/edit#) is supported by the [Association of Professional Healthcare Analysts (ApHA)](https://www.aphanalysts.org/), [This Equals](http://thisequals.co.uk/) and [Keyah Consulting](https://keyahconsulting.com/), in collaboration with the [Health Foundation](https://health.org.uk/), released under a CC-BY-SA licence. Attributions to ApHA 2020. This document is still active.
 
-This document is a resource for analysts and data scientists working in the health and care sectors.
+This document is a resource for analysts and data scientists working in the health and care sectors primarily, but not exclusively, in the UK.
 
 ## Technical notes 
 

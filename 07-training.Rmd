@@ -30,7 +30,9 @@
 
 * [UK GOV- Government Analysis Function - Learning Curriculum](https://www.gov.uk/guidance/government-analysis-function-af-learning-curriculum) - “Whether you’re an experienced government analyst looking to refresh or develop your skills, or brand new to your role, a member of one (or more) of the analytical professions or not, the AF Learning Curriculum has something for everyone.”
 
-* [Government Statistical Service online training](https://gss.civilservice.gov.uk/learning-development/)
+* [Government Statistical Service online training](https://gss.civilservice.gov.uk/learning-development/) open to Government (check but expect this includes NHS employees).
+
+* Also see online Reproducible Analytical Training from [NHS Digital](#RAP) for Git and Python languages but also includes training on [publishing code in the open](https://github.com/NHSDigital/rap-community-of-practice/blob/main/development-approach/08_how-to-publish-your-code-in-the-open.md).
 
 
 ## Training / Apprenticeship Schemes

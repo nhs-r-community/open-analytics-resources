@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="13.1 Software (/algorithms) - Github | Open Analytics Resources" />
+<meta property="og:type" content="book" />
+
+<meta property="og:description" content="This is a bookdown template." />
+<meta name="github-repo" content="rstudio/bookdown-demo" />
+
+<meta name="author" content="Zoë Turner" />
+
+<meta name="date" content="2022-03-16" />
+
+
+<meta name="description" content="This is a bookdown template.">
+
+<title>13.1 Software (/algorithms) - Github | Open Analytics Resources</title>
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="libs/navigation-1.1/tabsets.js"></script>
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+/* show arrow before summary tag as in bootstrap
+TODO: remove if boostrap in updated in html_document (rmarkdown#1485) */
+details > summary {
+  display: list-item;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container-fluid main-container">
+
+
+<div class="row">
+<div class="col-sm-12">
+<div id="TOC">
+<ul>
+<li class="has-sub"><a href="index.html#intro"><span class="toc-section-number">1</span> Open Analytics Resources for Health and Care</a>
+<ul>
+<li><a href="1.1-technical-notes.html#technical-notes"><span class="toc-section-number">1.1</span> Technical notes</a></li>
+</ul></li>
+<li class="has-sub"><a href="2-groups.html#groups"><span class="toc-section-number">2</span> Groups</a>
+<ul>
+<li><a href="2.1-slack.html#slack"><span class="toc-section-number">2.1</span> Slack</a></li>
+<li><a href="2.2-platforms.html#platforms"><span class="toc-section-number">2.2</span> Platforms</a></li>
+<li><a href="2.3-community-groups.html#community-groups"><span class="toc-section-number">2.3</span> Community groups</a></li>
+<li><a href="2.4-south-west-local.html#south-west-local"><span class="toc-section-number">2.4</span> South West Local</a></li>
+<li><a href="2.5-midlands.html#midlands"><span class="toc-section-number">2.5</span> Midlands</a></li>
+</ul></li>
+<li class="has-sub"><a href="3-accessibility.html#accessibility"><span class="toc-section-number">3</span> Accessibility</a>
+<ul>
+<li><a href="3.1-spreadsheets.html#spreadsheets"><span class="toc-section-number">3.1</span> Spreadsheets</a></li>
+<li><a href="3.2-data-visualisations.html#data-visualisations"><span class="toc-section-number">3.2</span> Data Visualisations</a></li>
+</ul></li>
+<li class="has-sub"><a href="4-ethics-resources.html#ethics-resources"><span class="toc-section-number">4</span> Ethics resources</a>
+<ul>
+<li><a href="4.1-groups-1.html#groups-1"><span class="toc-section-number">4.1</span> Groups</a></li>
+</ul></li>
+<li class="has-sub"><a href="5-RAP.html#RAP"><span class="toc-section-number">5</span> Reproducible Analytical Pipelines - RAP</a>
+<ul>
+<li><a href="5-RAP.html#python"><span class="toc-section-number">5.0.1</span> Python</a></li>
+</ul></li>
+<li class="has-sub"><a href="6-tools-and-resources.html#tools-and-resources"><span class="toc-section-number">6</span> Tools and Resources</a>
+<ul>
+<li><a href="6.1-software.html#software"><span class="toc-section-number">6.1</span> Software</a></li>
+<li><a href="6.2-data.html#data"><span class="toc-section-number">6.2</span> Data</a></li>
+</ul></li>
+<li class="has-sub"><a href="7-training-and-development-opportunities.html#training-and-development-opportunities"><span class="toc-section-number">7</span> Training and development opportunities</a>
+<ul>
+<li><a href="7-training-and-development-opportunities.html#nhs-r-community"><span class="toc-section-number">7.0.1</span> NHS-R Community</a></li>
+<li><a href="7-training-and-development-opportunities.html#future-learn"><span class="toc-section-number">7.0.2</span> Future Learn</a></li>
+<li><a href="7-training-and-development-opportunities.html#university-of-bristol"><span class="toc-section-number">7.0.3</span> University of Bristol</a></li>
+<li><a href="7-training-and-development-opportunities.html#university-of-west-of-england"><span class="toc-section-number">7.0.4</span> University of West of England</a></li>
+<li><a href="7-training-and-development-opportunities.html#funding"><span class="toc-section-number">7.0.5</span> Funding</a></li>
+<li><a href="7.1-learning-resources.html#learning-resources"><span class="toc-section-number">7.1</span> Learning Resources</a></li>
+<li><a href="7.2-training-apprenticeship-schemes.html#training-apprenticeship-schemes"><span class="toc-section-number">7.2</span> Training / Apprenticeship Schemes</a></li>
+</ul></li>
+<li><a href="8-codes-of-practice-regulation-and-guidance.html#codes-of-practice-regulation-and-guidance"><span class="toc-section-number">8</span> Codes of Practice, regulation, and guidance</a></li>
+<li><a href="9-professional-bodies.html#professional-bodies"><span class="toc-section-number">9</span> Professional bodies</a></li>
+<li class="has-sub"><a href="10-knowledge-resources.html#knowledge-resources"><span class="toc-section-number">10</span> Knowledge resources</a>
+<ul>
+<li><a href="10.1-bringing-nhs-data-analysis-into-the-21st-century.html#bringing-nhs-data-analysis-into-the-21st-century"><span class="toc-section-number">10.1</span> Bringing NHS data analysis into the 21st century</a></li>
+</ul></li>
+<li class="has-sub"><a href="11-projects-and-organisations.html#projects-and-organisations"><span class="toc-section-number">11</span> Projects and organisations</a>
+<ul>
+<li><a href="11.1-UKProjects.html#UKProjects"><span class="toc-section-number">11.1</span> UK</a></li>
+<li><a href="11.2-south-west-uk.html#south-west-uk"><span class="toc-section-number">11.2</span> South West UK</a></li>
+<li><a href="11.3-international.html#international"><span class="toc-section-number">11.3</span> International</a></li>
+</ul></li>
+<li><a href="12-featured-projects.html#featured-projects"><span class="toc-section-number">12</span> Featured projects</a></li>
+<li class="has-sub"><a href="13-covid-19-specific-resources.html#covid-19-specific-resources"><span class="toc-section-number">13</span> Covid-19 specific resources</a>
+<ul>
+<li><a href="13.1-software-algorithms---github.html#software-algorithms---github"><span class="toc-section-number">13.1</span> Software (/algorithms) - Github</a></li>
+<li><a href="13.2-data-1.html#data-1"><span class="toc-section-number">13.2</span> Data</a></li>
+<li><a href="13.3-other.html#other"><span class="toc-section-number">13.3</span> Other</a></li>
+<li><a href="13.4-learning-the-lessons.html#learning-the-lessons"><span class="toc-section-number">13.4</span> Learning the Lessons</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<div id="software-algorithms---github" class="section level2" number="13.1">
+<h2><span class="header-section-number">13.1</span> Software (/algorithms) - Github</h2>
+<ul>
+<li><p><a href="https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection">BNSSG Analytics - Required Beds Projection</a></p></li>
+<li><p><a href="https://github.com/sassoftware/covid-19-sas">Covid-19 SAS</a></p></li>
+<li><p><a href="https://github.com/ebmdatalab/">EMB Data Lab</a></p></li>
+<li><p><a href="https://github.com/HFAnalyticsLab">Health Foundation Analytics Lab</a></p></li>
+<li><p><a href="https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md">HF Analytics Lab - COVID-19 resources - Analytics Communities and Events</a></p></li>
+<li><p><a href="https://github.com/FoldingAtHome">Folding at home</a></p></li>
+<li><p><a href="https://github.com/nhs-r-community/covid-19">NHS-R Community - Covid-19</a></p></li>
+<li><p><a href="https://github.com/nhsx/covid-chest-imaging-database">NHSX Chest Imaging Database</a></p></li>
+<li><p><a href="https://github.com/odileeds/covid-19">ODI Leeds</a></p></li>
+<li><p><a href="https://github.com/ebmdatalab/opensafely-risk-factors-research/">OpenSAFELY</a></p></li>
+<li><p><span style="text-decoration:underline;">SD epidemiology models: <a href="https://sheetless.io/@kimwarren/the-covid-19-infection-system/app">https://sheetless.io/<span class="citation">(<a href="#ref-kimwarren/the-covid-19-infection-system/app" role="doc-biblioref"><strong>kimwarren/the-covid-19-infection-system/app?</strong></a>)</span></a></span></p>
+<p><a href="http://vensim.com/coronavirus/">http://vensim.com/coronavirus/</a></p></li>
+<li><p><span style="text-decoration:underline;">Simul8 ICU planner</span></p></li>
+</ul>
+</div>
+<p style="text-align: center;">
+<a href="13-covid-19-specific-resources.html"><button class="btn btn-default">Previous</button></a>
+<a href="13.2-data-1.html"><button class="btn btn-default">Next</button></a>
+</p>
+</div>
+</div>
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+</body>
+</html>

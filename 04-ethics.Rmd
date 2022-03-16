@@ -6,3 +6,5 @@
 ## Groups
 
 [Data Ethics Club](https://dataethicsclub.com/) and very open [GitHub](https://github.com/very-good-science/data-ethics-club) - is a fortnightly discussion group/"journal" club about doing data science ethically. "Journal" because we will also read blog posts, (parts of) books, or watch videos. The organisers are based in Bristol, but the club is open to all and is held virtually.
+
+UK Government Data Science [Data Ethics and Society Reading Group]( https://ukgovdatascience.github.io/data-ethics-and-society-reading-group/) - open to Government including NHS employees

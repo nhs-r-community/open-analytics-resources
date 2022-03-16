@@ -3,8 +3,6 @@
 
 ## Software 
 
-
-
 * [Jupyter notebooks](https://jupyter.org/): Supporting open-source software, open-standards, and services for interactive computing across dozens of programming languages. See also: [Jupyter Cheat Sheet](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.png)
 * [Github](https://github.com/) / [GitLab](https://about.gitlab.com/): GitHub is a development platform where you can host and review code, manage projects, and build software alongside 36 million developers. GitLab is a complete DevOps platform, delivered as a single application. From project planning and source code management to CI/CD, monitoring, and security. See also: [GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
     * [NHS Connect](https://github.com/nhsconnect/)
@@ -20,7 +18,10 @@
 * [QGIS](https://qgis.org/en/site/): A Free and Open Source Geographic Information System
 * [Shiny by RStudio](https://www.rstudio.com/products/shiny/): Shiny is an open source R package that provides a web framework for building web applications using R. Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
 * Visualisation type guides -[ Financial times guide](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)   
-*  Data 
+
+
+## Data
+
 * [Data Access Request Service](https://digital.nhs.uk/services/data-access-request-service-dars/dars-products-and-services) 
 * Data in local projects. ie . ALSPAC Data Set 
 * Bristol Open Data Platform 

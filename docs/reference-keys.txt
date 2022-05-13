@@ -42,5 +42,3 @@ software-algorithms---github
 data-2
 other
 learning-the-lessons
-r-markdown
-including-plots

@@ -4,6 +4,8 @@ groups
 slack
 platforms
 community-groups
+nhs-and-public-sector-groups
+global-community-groups
 south-west-local
 midlands
 accessibility
@@ -29,6 +31,8 @@ general
 analysis-and-evidence
 open-and-collaboration
 data-1
+professional-links
+job-profiles
 professional-bodies
 knowledge-resources
 bringing-nhs-data-analysis-into-the-21st-century
@@ -42,3 +46,6 @@ software-algorithms---github
 data-2
 other
 learning-the-lessons
+data-collection-resources
+gender-and-transgender
+nhs-data-dictionary

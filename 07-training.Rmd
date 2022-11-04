@@ -1,12 +1,25 @@
 # Training and development opportunities
 
+## Public Sector Resources 
+
 ### NHS-R Community
 [NHS-R Community](https://nhsrcommunity.com/) - record all webinars and have conference talks and workshops from 2020 onwards found through the website which links to [YouTube](https://nhsrcommunity.com/). Introduction to R and R Studio training is being provided by volunteers each month with more training always encouraged and listed on the website.
 
+### Government
+* [UK GOV- Government Analysis Function - Learning Curriculum](https://www.gov.uk/guidance/government-analysis-function-af-learning-curriculum) - “Whether you’re an experienced government analyst looking to refresh or develop your skills, or brand new to your role, a member of one (or more) of the analytical professions or not, the AF Learning Curriculum has something for everyone.”
+
+* [Government Statistical Service online training](https://gss.civilservice.gov.uk/learning-development/) open to Government (check but expect this includes NHS employees).
+
+* Also see online Reproducible Analytical Training from [NHS Digital](#RAP) for Git and Python languages but also includes training on [publishing code in the open](https://github.com/NHSDigital/rap-community-of-practice/blob/main/development-approach/08_how-to-publish-your-code-in-the-open.md).
+
+## MOOC (Massive Open Online Course
+)
 ### Future Learn
 * [Data Science for Healthcare: Using Real World Evidence](https://www.futurelearn.com/courses/data-science-healthcare)
 * [Health data analytics](https://www.futurelearn.com/courses/eit-health-data-analytics)
 * [Quality Improvement in Healthcare: the Case for Change](https://www.futurelearn.com/courses/quality-improvement)
+
+## University
 
 ### University of Bristol
 * [Data Linkage](https://www.bristol.ac.uk/medical-school/study/short-courses/data-linkage/)
@@ -22,17 +35,9 @@
 * [Machine Learning and Predictive Analytics](https://courses.uwe.ac.uk/Z41000092/machine-learning-and-predictive-analytics)
 
 
-### Funding {#funding}
+## Funding {#funding}
 
 [HDRUK](#UKProjects) fund [Masters Courses](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/masters-programme/) at particular Universities. 
-
-## Learning Resources
-
-* [UK GOV- Government Analysis Function - Learning Curriculum](https://www.gov.uk/guidance/government-analysis-function-af-learning-curriculum) - “Whether you’re an experienced government analyst looking to refresh or develop your skills, or brand new to your role, a member of one (or more) of the analytical professions or not, the AF Learning Curriculum has something for everyone.”
-
-* [Government Statistical Service online training](https://gss.civilservice.gov.uk/learning-development/) open to Government (check but expect this includes NHS employees).
-
-* Also see online Reproducible Analytical Training from [NHS Digital](#RAP) for Git and Python languages but also includes training on [publishing code in the open](https://github.com/NHSDigital/rap-community-of-practice/blob/main/development-approach/08_how-to-publish-your-code-in-the-open.md).
 
 
 ## Training / Apprenticeship Schemes
@@ -40,4 +45,14 @@
 * [NHS Graduate Management Training Scheme: Health Analysis](https://www.graduates.nhs.uk/scheme/health-analysis/) 
 * Apprenticeships: [Level 4 Data Analyst](https://www.qa.com/course-catalogue/courses/data-analyst-level-4-apprenticeship-programme-england-qaadanl4/#:~:text=Our%20Data%20Analyst%20Level%204,range%20of%20stakeholders%20and%20customers.)
 * Apprenticeships: [Level 6 (Integrated degree) Data Scientist](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-scientist-(integrated-degree)-v1-0)
+
+## Specific software
+
+### SQL
+
+Free SQL training can be found on MOOCs and a particularly good one that has been split into smaller "mini-courses" is by [Stanford University](https://online.stanford.edu/courses/soe-ydatabases-databases) via the [Edx platform](https://www.edx.org/learn/sql). 
+
+### Git
+
+Free[ Git course](https://www.futurelearn.com/courses/collaborative-coding-with-git) on the FutureLearn MOOC platform  
 

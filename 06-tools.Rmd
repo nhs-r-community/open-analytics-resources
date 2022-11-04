@@ -1,5 +1,6 @@
 # Tools and Resources 
 
+[NHS-R Handbook](https://nhs-r-community.github.io/statements-on-tools/) is a collaborative effort by the community inspired initially from difficulties faced when installing free tools such as R and R Studio. 
 
 ## Software 
 
@@ -23,5 +24,3 @@
 ## Data
 
 * [Data Access Request Service](https://digital.nhs.uk/services/data-access-request-service-dars/dars-products-and-services) 
-* Data in local projects. ie . ALSPAC Data Set 
-* Bristol Open Data Platform 

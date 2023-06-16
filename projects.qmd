@@ -8,7 +8,8 @@
 
 * [Health Foundation (Improvement Analytics Unit)](https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit) - An innovative partnership between NHS England and NHS Improvement and the Health Foundation providing robust evaluation of complex changes in the NHS.
 
-* [Improvement Analytics Unit Statistical Analysis Protocols ](https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit/iau-statistical-analytical-protocols)- A statistical analysis protocol (SAP) is a document intended to guide analytical processes. It includes the proposed evaluation design, statistical methods, and the limitations of the analysis, including how these should be considered when interpreting the results.
+* [Improvement Analytics Unit Statistical Analysis Protocols ](https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit/iau-statistical-analytical-protocols)- A statistical analysis protocol (SAP) is a document intended to guide analytical processes. 
+It includes the proposed evaluation design, statistical methods, and the limitations of the analysis, including how these should be considered when interpreting the results.
 
 * [My NHS (Open Data Beta)](https://opendata.nhs.uk/home) - Created to help developers, commissioners and the public get data in formats that are free and easy to re-use for their projects and products.
 

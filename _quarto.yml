@@ -15,7 +15,6 @@ book:
     - code-of-practice-regulation-guidance.qmd
     - profession.qmd
     - knowledge-resource.qmd
-    - covid-resources.qmd
     - data-collection.qmd
   page-footer:
     left: |

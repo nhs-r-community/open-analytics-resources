@@ -9,7 +9,7 @@ This document is a resource for analysts and data scientists working in the heal
 
 ## Technical notes 
 
-This quarto book is available for review, curation, comment and update from anyone who wishes to do a pull request or an [issue](https://github.com/Lextuga007/open-analytics-resources/issues). 
+This quarto book is available for review, curation, comment and update from anyone who wishes to do a pull request or an issue (links will appear on each page to edit or report and issue). 
 Using GitHub means this is version controlled, is backed up and is available to everyone.
 
 Translation from the Google document was via a copy to a personal account and the use of the Google Add-On for turning docs to markdown. 

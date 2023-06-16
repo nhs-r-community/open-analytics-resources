@@ -1,7 +1,5 @@
 # Knowledge resources 
 
-The Bristol, North Somerset and South Gloucestershire Research and Evidence Team; The Bristol, North Somerset and South Gloucestershire Knowledge and Intelligence Collaborative (KIC). (2018). Presentation - [Making sense of evidence and evaluation across Bristol, North Somerset and South Gloucestershire](http://www.apcrc.nhs.uk/seminars/presentations/april2018.pptx)
-
 Bakhshi, H, Mateos-Garcia J, Whitby A. (2014) _Model Workers - How leading Companies Are Recuiting and Managing Their Data Talent. Nesta._ Available at [Model Workers: How leading companies are recruiting and managing data talent | Nesta](https://www.nesta.org.uk/report/model-workers-how-leading-companies-are-recruiting-and-managing-data-talent/) [Accessed 20 March 2021]
 
 Bardsley M. (2016). _Understanding analytical capability in health care - Do we have more data than insight? Health Foundation._ Available at: [https://www.health.org.uk/sites/default/files/UnderstandingAnalyticalCapabilityInHealthCare.pdf](https://www.health.org.uk/sites/default/files/UnderstandingAnalyticalCapabilityInHealthCare.pdf) [Accessed: 26 June 2019]
@@ -13,10 +11,6 @@ Bardsley M, Steventon A, and Fothergill G. (2019). _Untapped potential: Investin
 Copeland E, Symons T, Simpson H, Dragicevic N. (2018?).  _Public Sector Data Analytics - _
 
 _A Nesta Guide_. NESTA. Available at: [https://media.nesta.org.uk/documents/Public_Sector_Data_Analytics_-_A_Nesta_Guide_byCwKTI.pdf](https://media.nesta.org.uk/documents/Public_Sector_Data_Analytics_-_A_Nesta_Guide_byCwKTI.pdf) [Accessed 5 July 2019]
-
-Di Mambro D, Beeley C. (2018).  _Next-gen analytics: enhancing the availability and impact of_
-
-_data to improve service delivery and management in a large mental health or community care trust_. Presented at NHS Innovation Expo 2018. Available at: [https://www.england.nhs.uk/expo/wp-content/uploads/sites/18/2018/09/09.30-Next-gen-analytics.-enhancing-the-availability-and-impact-of-data-P4G.pdf](https://www.england.nhs.uk/expo/wp-content/uploads/sites/18/2018/09/09.30-Next-gen-analytics.-enhancing-the-availability-and-impact-of-data-P4G.pdf) [Accessed 5 July 2019]
 
 Diethe T, Nieto MP, Tonkin E, Holmes M, Sokol K, Twomey N, Kull M, Hao Song, Flach P.  (2018). _Releasing eHealth Analytics into the Wild: Lessons Learnt from the SPHERE Project. _Available at: [https://research-information.bristol.ac.uk/files/160992845/Peter_Flach_Releasing_eHealth_Analytics_into_the_Wild.pdf](https://research-information.bristol.ac.uk/files/160992845/Peter_Flach_Releasing_eHealth_Analytics_into_the_Wild.pdf) [Accessed: 3 July 2019]
 

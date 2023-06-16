@@ -11,84 +11,70 @@
     "href": "index.html#technical-notes",
     "title": "Open Analytics Resources",
     "section": "1.1 Technical notes",
-    "text": "1.1 Technical notes\nThis quarto book is available for review, curation, comment and update from anyone who wishes to do a pull request or an issue. Using GitHub means this is version controlled, is backed up and is available to everyone.\nTranslation from the Google document was via a copy to a personal account and the use of the Google Add-On for turning docs to markdown."
+    "text": "1.1 Technical notes\nThis quarto book is available for review, curation, comment and update from anyone who wishes to do a pull request or an issue (links will appear on each page to edit or report and issue). Using GitHub means this is version controlled, is backed up and is available to everyone.\nTranslation from the Google document was via a copy to a personal account and the use of the Google Add-On for turning docs to markdown."
   },
   {
     "objectID": "forum-groups.html#slack",
     "href": "forum-groups.html#slack",
-    "title": "2  Groups",
+    "title": "2  Forum Groups",
     "section": "2.1 Slack",
-    "text": "2.1 Slack\nGovernment Data Science - requires a recognised email address and not every NHS/Local Authority is listed. However, nhs.net is acceptable.\nNHS-R Community - predominantly R related but many channels like Git, Python and Ethics. Membership is open for anyone interested in health and social care."
+    "text": "2.1 Slack\nGovernment Data Science - requires a recognised email address and not every NHS/Local Authority is listed. However, nhs.net is acceptable.\nNHS-R Community - predominantly R related but many channels like Git, Python and Ethics. Membership is open for anyone interested in health and social care and not restricted to R. As of 2022 hosted by The Strategy Unit part of NHS Midlands and Lancashire Commissioning Support Unit.\nNHS Pycom - predominately Python and run by volunteers."
   },
   {
     "objectID": "forum-groups.html#platforms",
     "href": "forum-groups.html#platforms",
-    "title": "2  Groups",
+    "title": "2  Forum Groups",
     "section": "2.2 Platforms",
-    "text": "2.2 Platforms\nFutureNHS - The FutureNHS Collaboration Platform is the only virtual collaboration platform from the NHS that supports people working in health and social care to make change, improve and transform across organisations, places and professions."
+    "text": "2.2 Platforms\nFutureNHS - The FutureNHS Collaboration Platform is the only virtual collaboration platform from the NHS that supports people working in health and social care to make change, improve and transform across organisations, places and professions.\nKHub - is a platform site often used by Civil Service and Local Authorities to share knowledge, insight and best practice."
   },
   {
     "objectID": "forum-groups.html#community-groups",
     "href": "forum-groups.html#community-groups",
-    "title": "2  Groups",
+    "title": "2  Forum Groups",
     "section": "2.3 Community groups",
-    "text": "2.3 Community groups\n\n2.3.1 NHS and Public Sector groups\nNHS-R Community - The NHS-R community aims to support the learning, application and exploitation of R in the NHS through workshops, video tutorials and providing a platform for discussion and sharing of developing best practice solutions to NHS problems.\nNHS Pycom - is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.\n\n\n2.3.2 Global community groups\nR-girls a worldwide network to promote the use of R - a leading data science programming language - in secondary schools for girls.\nMiR is a Slack-based community started in March 2020 to support the professional development and well-being of historically underrepresented minorities that use R.\nR Ladies Global is an organization that promotes gender diversity in the community of users of the R statistical programming language."
+    "text": "2.3 Community groups\n\n2.3.1 NHS and Public Sector groups\nNHS-R Community - The NHS-R community aims to support the learning, application and exploitation of R in the NHS through workshops, video tutorials and providing a platform for discussion and sharing of developing best practice solutions to NHS problems.\nNHS Pycom - is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.\nAnalystX - is a community leading the movement for data driven, evidence-based decision making by sharing learning across health and social care.\n\n\n2.3.2 Global community groups\nR-girls a worldwide network to promote the use of R - a leading data science programming language - in secondary schools for girls.\nMiR is a Slack-based community started in March 2020 to support the professional development and well-being of historically underrepresented minorities that use R.\nR Ladies Global is an organization that promotes gender diversity in the community of users of the R statistical programming language."
   },
   {
-    "objectID": "forum-groups.html#south-west-local",
-    "href": "forum-groups.html#south-west-local",
-    "title": "2  Groups",
-    "section": "2.4 South West Local",
-    "text": "2.4 South West Local\nBristol Data Scientists Meetup - The aim of this meetup is to promote discussion, learning and interaction around Data Science in the South West. This is a group for statisticians, mathematicians, programmers, data scientists, data alchemists and anyone interested in using data for analytics. Aim to run meetings on a quarterly basis\nBristol Project Data Analytics Meetup - Meetup to share best practise on leveraging data within a project, programme and portfolio environment. This meetup will explore some of the challenges at the intersection of data analysis and project, programme and portfolio management and discuss how practitioners are working to resolve them,\nSouthwest Data Meetup - The Bristol-based holistic data group that is all things to do with managing, handling, analysing and delivering data in the mild mild South West.\nElizabeth Blackwell Institute Health Data Science Research Strand - A University of Bristol group of academics with an interest in making better use of routinely collected data.\nLocal Digital Health Research and Development Group - Bristol Health Partners convenes a Local Digital Health Research and Development Group, bringing together academics, NHS organisations and local authorities in Bristol, North Somerset and South Gloucestershire (BNSSG)."
+    "objectID": "forum-groups.html#south-west-local---requires-verification-june-2023",
+    "href": "forum-groups.html#south-west-local---requires-verification-june-2023",
+    "title": "2  Forum Groups",
+    "section": "2.4 South West Local - Requires verification June 2023",
+    "text": "2.4 South West Local - Requires verification June 2023\nBristol Data Scientists Meetup - The aim of this meetup is to promote discussion, learning and interaction around Data Science in the South West. This is a group for statisticians, mathematicians, programmers, data scientists, data alchemists and anyone interested in using data for analytics. Aim to run meetings on a quarterly basis\nBristol Project Data Analytics Meetup - Meetup to share best practise on leveraging data within a project, programme and portfolio environment. This meetup will explore some of the challenges at the intersection of data analysis and project, programme and portfolio management and discuss how practitioners are working to resolve them,\nSouthwest Data Meetup - The Bristol-based holistic data group that is all things to do with managing, handling, analysing and delivering data in the mild mild South West.\nElizabeth Blackwell Institute Health Data Science Research Strand - A University of Bristol group of academics with an interest in making better use of routinely collected data.\nLocal Digital Health Research and Development Group - Bristol Health Partners convenes a Local Digital Health Research and Development Group, bringing together academics, NHS organisations and local authorities in Bristol, North Somerset and South Gloucestershire (BNSSG)."
   },
   {
     "objectID": "forum-groups.html#midlands",
     "href": "forum-groups.html#midlands",
-    "title": "2  Groups",
+    "title": "2  Forum Groups",
     "section": "2.5 Midlands",
     "text": "2.5 Midlands\nThe Strategy Unit - The Strategy Unit is a specialist NHS team, based in Midlands and Lancashire Commissioning Support Unit. They provide high-quality, multi-disciplinary analytical work as well as host the Midlands Analyst Network which is a fornightly virtual MS Teams meeting which is open to Network members.\nBirmingham R User Group Meetup\nNottinghamR R Users Group Meetup\nWomen in Tech Nottingham and Tech Nottingham - monthly meetups open to everyone."
-  },
-  {
-    "objectID": "accessibility.html#spreadsheets",
-    "href": "accessibility.html#spreadsheets",
-    "title": "3  Accessibility",
-    "section": "3.1 Spreadsheets",
-    "text": "3.1 Spreadsheets\nMaking spreadsheets accessible a checklist of the basics which is also talked about in this YouTube video.\nReleasing statistics in spreadsheets best practice from Government Statistical Service."
   },
   {
     "objectID": "accessibility.html#data-visualisations",
     "href": "accessibility.html#data-visualisations",
     "title": "3  Accessibility",
-    "section": "3.2 Data Visualisations",
-    "text": "3.2 Data Visualisations\nRStudio webinar on Data Visualisation Accessibility on YouTube."
+    "section": "3.1 Data Visualisations",
+    "text": "3.1 Data Visualisations\nRStudio (now Posit) webinar on Data Visualisation Accessibility on YouTube."
   },
   {
     "objectID": "ethics.html#groups",
     "href": "ethics.html#groups",
     "title": "4  Ethics resources",
     "section": "4.1 Groups",
-    "text": "4.1 Groups\nData Ethics Club and very open GitHub - is a fortnightly discussion group/“journal” club about doing data science ethically. “Journal” because we will also read blog posts, (parts of) books, or watch videos. The organisers are based in Bristol, but the club is open to all and is held virtually.\nUK Government Data Science Data Ethics and Society Reading Group - open to Government including NHS employees"
+    "text": "4.1 Groups\nData Ethics Club and very open GitHub - is a fortnightly discussion group/“journal” club about doing data science ethically. “Journal” because they also read blog posts, (parts of) books, or watch videos. The organisers are based in Bristol, but the club is open to all and is held virtually.\nUK Government Data Science Data Ethics and Society Reading Group - open to Government and Public Sector."
   },
   {
     "objectID": "reproducible-analytical-pipelines.html",
     "href": "reproducible-analytical-pipelines.html",
     "title": "5  Reproducible Analytical Pipelines - RAP",
     "section": "",
-    "text": "Government Statistical Service is a comprehensive website detailing what RAP is, how it’s good practice and links to other resources.\nA technical communication document written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline.\nNHS Digital Community of Practice includes all analysts and data scientists who are interested in adopting the working practices included in reproducible analytical pipelines (RAP) at NHS Digital.\n\n5.0.1 Python\nNHS Digital Python RAP Package Template"
+    "text": "Government Statistical Service RAP is a comprehensive website detailing what RAP is, how it’s good practice and links to other resources.\nGovernment Statistical Service RAP Strategy published 20 June 2022\nArchived - A technical communication document written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline.\nNHS Community of Practice hosted by NHS England, developed by the former NHS Digital."
   },
   {
-    "objectID": "tools.html#software",
-    "href": "tools.html#software",
+    "objectID": "tools.html",
+    "href": "tools.html",
     "title": "6  Tools and Resources",
-    "section": "6.1 Software",
-    "text": "6.1 Software\n\nJupyter notebooks: Supporting open-source software, open-standards, and services for interactive computing across dozens of programming languages. See also: Jupyter Cheat Sheet\nGithub / GitLab: GitHub is a development platform where you can host and review code, manage projects, and build software alongside 36 million developers. GitLab is a complete DevOps platform, delivered as a single application. From project planning and source code management to CI/CD, monitoring, and security. See also: GIT Cheat Sheet\n\nNHS Connect\nNHSEI Analytics\nNHS-R Community\nNHSX\nSHERE HyperStream\nIBM Streams Health\nJupyter Server\n\nCloud: To use Cloud storage to share data.\nR and Python cheat sheets\nTriangular Irregular Networks (TIN): These digital data structures are used in a variety of applications including Geographic Information Systems.\nQGIS: A Free and Open Source Geographic Information System\nShiny by RStudio: Shiny is an open source R package that provides a web framework for building web applications using R. Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.\nVisualisation type guides -Financial times guide"
-  },
-  {
-    "objectID": "tools.html#data",
-    "href": "tools.html#data",
-    "title": "6  Tools and Resources",
-    "section": "6.2 Data",
-    "text": "6.2 Data\n\nData Access Request Service"
+    "section": "",
+    "text": "NHS-R Community Statement on Tools is a collaborative effort by the community inspired initially from difficulties faced when installing free tools such as R and R Studio."
   },
   {
     "objectID": "training.html#public-sector-resources",
@@ -182,45 +168,17 @@
     "text": "10.1 Bringing NHS data analysis into the 21st century\nBen Goldacre, Martin Bardsley, Tim Benson, Kate Cheema, Roger Chinn, Ellen Coughlan, Sarah Dougan, Marc Farr, Loraine Hawkins, Adrian Jonas, Andy Kinnear, Morag Mcinnes, Mohammed Amin Mohammed, Caroline Morton, Rahul Pasumarthy, Neil Pettinger, Ben Rowland, Neil Sebire, Paul Stroner, Jeni Tennison, Samantha Warnakula, Oliver Watson, Emma Wright, Hamish Young, Jessica Morley\n\n&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. (Back to top)(Next alert)&gt;&gt;&gt;&gt;&gt; \n\n [2021] Journal of the Royal Society of Medicine. Avaialble at https://journals.sagepub.com/doi/full/10.1177/0141076820930666 [Accessed 20 March 2021]\nInformation Commissioner’s Office. (2020). Guidance on the AI auditing framework - Draft guidance for consultation. Available at: https://ico.org.uk/media/about-the-ico/consultations/2617219/guidance-on-the-ai-auditing-framework-draft-for-consultation.pdf [Accessed: 27 April 2020]\nKhamassi A. (2014). _Building An Analytical Roadmap : A Real Life Example. _WIPRO. Available at: https://www.sas.com/content/dam/SAS/en_my/doc/other2/building-analytical-roadmap.pdf [Accessed: 3 July 2019]\nMunir K, de Ramón-Fernández A, Iqbal, S, & Javaid, N. (2019). Neuroscience patient identification using big data and fuzzy logic–An Alzheimer’s disease case study. Expert Systems with Applications, 136, 410-425. Available at: https://doi.org/10.1016/j.eswa.2019.06.049 [Accessed 27 April 2020]\nNoveck BS. 8 Feb. 2017. ‘Another NHS crisis looms – an inability to analyse data.’ The Guardian. Available at: https://www.theguardian.com/science/political-science/2017/feb/08/another-nhs-crisis-looms-an-inability-to-analyse-data [Accessed: 26 June 2019]\nNoveck BS, Verhulst S, Young A, Hermosilla M, Dinesh A, McMurran, J. (2017). _Smarter State: Boosting analytical capacity in the NHS. _GovLab (with support from NHS England). Available at: https://www.thegovlab.org/static/files/publications/nhs-health-report.pdf [Accessed: 27 June 2019]\nOffice for Statistics Regulation (2021) Statistical leadership: Making Analytical Insight Count Available at Statistical leadership: Making analytical insight count – Office for Statistics Regulation (statisticsauthority.gov.uk) [Accessed 20 March 2021]\nRoyal Society. (2019). _Dynamics of Data Science Skills: How can all sectors benefit from data science talent? _Available at: https://royalsociety.org/-/media/policy/projects/dynamics-of-data-science/dynamics-of-data-science-skills-report.pdf [Accessed: 1 July 2018]\n\nSee also - Dynamics of data science skills: What data professionals say about data science – career stories\nSee also - Dynamics of Data Science: Models and mechanisms\n\nSollazzo G, Miller D. (2017). Open data in the health sector - Users, stories, products and recommendations. Open Health Care UK. Available at: https://openhealthcare.org.uk/open-data-in-the-health-sector/ [Accessed: 28 June 2019]\nScott PJ, Dunscombe R, Evans D, Mukherjee M, Wyatt J. (2018). ‘Learning health systems need to bridge the ‘two cultures’ of clinical informatics and data science.’ Journal of Innovation in Health Informatics. 25(2):126–131. Available at: https://researchportal.port.ac.uk/portal/files/10925808/Learning_health_systems_need.pdf [Accessed: 26 June 2019]\nTaysom S. (2018). ‘Event write-up - AI in Health and Care: how do we get it right?’ Available at:\nhttp://www.bristolhealthpartners.org.uk/uploads/documents/2018-12-12/1544615586-ai-in-health-and-care-event-write-up-final.pdf [Accessed: 31 July 2019]\nTaysom S, Kellas, J. (2018). ‘AI in Health and Care: how do we get it right?’ Available at: http://www.bristolhealthpartners.org.uk/uploads/documents/2018-11-27/1543315533-ai-in-health-and-care-pre-brief.pdf [Accessed: 31 July 2019]"
   },
   {
-    "objectID": "covid-resources.html#software-algorithms---github",
-    "href": "covid-resources.html#software-algorithms---github",
-    "title": "11  Covid-19 specific resources",
-    "section": "11.1 Software (/algorithms) - Github",
-    "text": "11.1 Software (/algorithms) - Github\n\nBNSSG Analytics - Required Beds Projection\nCovid-19 SAS\nEMB Data Lab\nHealth Foundation Analytics Lab\nHF Analytics Lab - COVID-19 resources - Analytics Communities and Events\nFolding at home\nNHS-R Community - Covid-19\nNHSX Chest Imaging Database\nODI Leeds\nOpenSAFELY\nSD epidemiology models: https://sheetless.io/@kimwarren/the-covid-19-infection-system/app\nhttp://vensim.com/coronavirus/\nSimul8 ICU planner"
-  },
-  {
-    "objectID": "covid-resources.html#data",
-    "href": "covid-resources.html#data",
-    "title": "11  Covid-19 specific resources",
-    "section": "11.2 Data",
-    "text": "11.2 Data\n\nEmergency Care Data Set - ECDS latest update\nGov.UK - Coronavirus (COVID-19) in the UK\nNPC - Interactive COVID-19 Data for Charities and Funders\nPHE - Wider Impacts of COVID-19 on Health (WICH) monitoring tool\nPotential Coronavirus (COVID-19) symptoms reported through NHS Pathways and 111 online\nShielded patients methodology: https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology/annexes (England)\nhttps://nwis.nhs.wales/news/latest-news/identifying-vulnerable-patient-lists/ (Wales)"
-  },
-  {
-    "objectID": "covid-resources.html#other",
-    "href": "covid-resources.html#other",
-    "title": "11  Covid-19 specific resources",
-    "section": "11.3 Other",
-    "text": "11.3 Other\n\nHealth Foundation - Covid-19 Policy Tracker: A timeline of national policy and health system responses to COVID-19 in England\nHDRUK Covid-19\n\nSlack Channel Sign ups\n\nHEE Knowledge for Healthcare\nNational Institutes for Health (US) - Open-Access Data and Computational Resources to Address COVID-19\nNHS-R Community - Covid-19 Modelling Webinar\nOpenSAFELY - Secure analytics platform for electronic health records in the NHS, created to deliver urgent results during the global COVID-19 emergency. Analyses across more than 24 million patients’ full pseudonymised primary care NHS records, with more to follow."
-  },
-  {
-    "objectID": "covid-resources.html#learning-the-lessons",
-    "href": "covid-resources.html#learning-the-lessons",
-    "title": "11  Covid-19 specific resources",
-    "section": "11.4 Learning the Lessons",
-    "text": "11.4 Learning the Lessons\n\nHouse of Commons: Eighth Report - Government transparency and accountability during Covid 19: The data underpinning decisions\nRSS - Statistics, Data and Covid - “Ten statistical lessons the government can learn from the past year “\nKey policy documents"
-  },
-  {
     "objectID": "data-collection.html#gender-and-transgender",
     "href": "data-collection.html#gender-and-transgender",
-    "title": "12  Data collection resources",
-    "section": "12.1 Gender and Transgender",
-    "text": "12.1 Gender and Transgender\nGuidance on collecting and submitting data for the data items on gender within the Mental Health Services Data Set (MHSDS) is a useful resource for information on these protected characteristics."
+    "title": "11  Data collection resources",
+    "section": "11.1 Gender and Transgender",
+    "text": "11.1 Gender and Transgender\nGuidance on collecting and submitting data for the data items on gender within the Mental Health Services Data Set (MHSDS) is a useful resource for information on these protected characteristics."
   },
   {
     "objectID": "data-collection.html#nhs-data-dictionary",
     "href": "data-collection.html#nhs-data-dictionary",
-    "title": "12  Data collection resources",
-    "section": "12.2 NHS Data Dictionary",
-    "text": "12.2 NHS Data Dictionary\nThe NHS Data Model and Dictionary has been developed for everyone who is actively involved in the collection of data and the management of information in the NHS."
+    "title": "11  Data collection resources",
+    "section": "11.2 NHS Data Dictionary",
+    "text": "11.2 NHS Data Dictionary\nThe NHS Data Model and Dictionary has been developed for everyone who is actively involved in the collection of data and the management of information in the NHS."
   }
 ]

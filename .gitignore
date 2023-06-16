@@ -4,3 +4,6 @@
 _publish.R
 _bookdown_files
 rsconnect
+
+/.quarto/
+_book/*

@@ -54,5 +54,5 @@ Free SQL training can be found on MOOCs and a particularly good one that has bee
 
 ### Git
 
-Free[ Git course](https://www.futurelearn.com/courses/collaborative-coding-with-git) on the FutureLearn MOOC platform  
+Free [Git course](https://www.futurelearn.com/courses/collaborative-coding-with-git) on the FutureLearn MOOC platform.
 

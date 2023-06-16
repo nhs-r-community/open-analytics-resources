@@ -1,3 +1,18 @@
 # Tools and Resources 
 
 [NHS-R Community Statement on Tools](https://nhs-r-community.github.io/statements-on-tools/) is a collaborative effort by the community inspired initially from difficulties faced when installing free tools such as R and R Studio. 
+
+## NHS Number validation
+
+### R packages
+
+[{nhsnumber}](https://github.com/cran/nhsnumber) - An R package to work with NHS numbers and their checksums.
+Available through CRAN.
+Referred to in an NHSR Community blog [The “nhsnumber” package and the joy of sharing your niche](https://nhsrcommunity.com/the-nhsnumber-package-and-the-joy-of-sharing-your-niche/).
+
+[nhsnumbergenerator](https://github.com/samellisq/nhsnumbergenerator) - Generates Random NHS Numbers in R.
+Note, no licence.
+
+### Python packages
+
+[nhs-number](https://github.com/uk-fci/nhs-number) - provides utilities for NHS Numbers, including validity checks, normalisation, and generation.

@@ -24,10 +24,10 @@ book:
       NHS-R Community makes all of their materials publicly available under open source licenses
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  repo-url: https://github.com/nhs-r-community/
+  repo-url: https://github.com/Lextuga007/open-analytics-resources
   repo-branch: main
   repo-actions: [edit, issue]
-  site-url: https://github.com/nhs-r-community/
+  site-url: https://github.com/Lextuga007/open-analytics-resources
 
 format:
   html:

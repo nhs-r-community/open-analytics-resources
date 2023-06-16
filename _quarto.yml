@@ -1,0 +1,34 @@
+project:
+  type: book
+book:
+  title: "Open Analytics Resources"
+  author: "NHS-R Community"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - forum-groups.qmd
+    - accessibility.qmd
+    - ethics.qmd
+    - reproducible-analytical-pipelines.qmd
+    - tools.qmd
+    - training.qmd
+    - code-of-practice-regulation-guidance.qmd
+    - profession.qmd
+    - knowledge-resource.qmd
+    - covid-resources.qmd
+    - data-collection.qmd
+  page-footer:
+    left: |
+      Open Analytics Resources by the NHS-R Community
+
+      NHS-R Community makes all of their materials publicly available under open source licenses
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  repo-url: https://github.com/nhs-r-community/
+  repo-branch: main
+  repo-actions: [edit, issue]
+  site-url: https://github.com/nhs-r-community/
+
+format:
+  html:
+    theme: cosmo

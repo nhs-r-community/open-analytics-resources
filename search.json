@@ -70,11 +70,11 @@
     "text": "Government Statistical Service RAP is a comprehensive website detailing what RAP is, how it’s good practice and links to other resources.\nGovernment Statistical Service RAP Strategy published 20 June 2022\nArchived - A technical communication document written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline.\nNHS Community of Practice hosted by NHS England, developed by the former NHS Digital."
   },
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
+    "objectID": "tools.html#nhs-number-validation",
+    "href": "tools.html#nhs-number-validation",
     "title": "6  Tools and Resources",
-    "section": "",
-    "text": "NHS-R Community Statement on Tools is a collaborative effort by the community inspired initially from difficulties faced when installing free tools such as R and R Studio."
+    "section": "6.1 NHS Number validation",
+    "text": "6.1 NHS Number validation\n\n6.1.1 R packages\n{nhsnumber} - An R package to work with NHS numbers and their checksums. Available through CRAN. Referred to in an NHSR Community blog The “nhsnumber” package and the joy of sharing your niche.\nnhsnumbergenerator - Generates Random NHS Numbers in R. Note, no licence.\n\n\n6.1.2 Python packages\nnhs-number - provides utilities for NHS Numbers, including validity checks, normalisation, and generation."
   },
   {
     "objectID": "training.html#public-sector-resources",
@@ -116,7 +116,7 @@
     "href": "training.html#specific-software",
     "title": "7  Training and development opportunities",
     "section": "7.6 Specific software",
-    "text": "7.6 Specific software\n\n7.6.1 SQL\nFree SQL training can be found on MOOCs and a particularly good one that has been split into smaller “mini-courses” is by Stanford University via the Edx platform.\n\n\n7.6.2 Git\nFreeGit course on the FutureLearn MOOC platform"
+    "text": "7.6 Specific software\n\n7.6.1 SQL\nFree SQL training can be found on MOOCs and a particularly good one that has been split into smaller “mini-courses” is by Stanford University via the Edx platform.\n\n\n7.6.2 Git\nFree Git course on the FutureLearn MOOC platform."
   },
   {
     "objectID": "code-of-practice-regulation-guidance.html#general",

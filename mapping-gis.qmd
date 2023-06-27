@@ -1,0 +1,9 @@
+# Mapping/GIS resources
+
+[SHAPE Atlas](https://shapeatlas.net/) - "is an online, interactive, data mapping, analysis and insight tool that supports service planning and estates strategy development." Requires registration from a public sector email.
+
+Includes travel times for public transport and car, demographics and building locations amongst other data.
+
+Managed by the Department of Health and Social Care
+
+[Local Health](https://www.localhealth.org.uk/#c=home) - "Quality assured small area health-related data visualised in maps, charts, area profiles, and reports." Managed by the Office for Health Improvement and Disparities (OHID) and allows for uploading of your own data.

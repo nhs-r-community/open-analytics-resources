@@ -173,5 +173,12 @@
     "title": "11  Data collection resources",
     "section": "11.2 NHS Data Dictionary",
     "text": "11.2 NHS Data Dictionary\nThe NHS Data Model and Dictionary has been developed for everyone who is actively involved in the collection of data and the management of information in the NHS."
+  },
+  {
+    "objectID": "data-collection.html#population",
+    "href": "data-collection.html#population",
+    "title": "11  Data collection resources",
+    "section": "11.3 Population",
+    "text": "11.3 Population\nNOMIS official census and labour market statistics - managed by Office for National Statistics publishing statistics related to population, society and the labour market at national, regional and local levels. Requires an account to save searches through API.\nPOPPI Projecting Older People Population Information - requires registration.\n\nOriginally developed for the Department of Health, this system provides population data by age band, gender, ethnic group, and tenure, for English local authorities.\n\n\nCalculations are applied to population figures to estimate projected numbers of older people by; those living alone, living in care home, provision of unpaid care, their ability to carry out domestic tasks and self care.\n\n\nPrevalence rates from research have been used to estimate the impact of; limiting long term illness, depression, severe depression, dementia, heart attack, stroke, bronchitis, falls, continence, visual impairment, hearing impairment, mobility, obesity, diabetes and learning disability including Down’s syndrome and autistic spectrum disorders (ASD).\n\nPANSI Projecting Adult Needs and Service Information - requires registration.\n\nOriginally developed for the Department of Health, this system provides population data by age band, gender, and ethnic group.\n\n\nPrevalence rates from research have been used to estimate the impact of: learning disability, including living with a parent, Down’s syndrome, challenging behaviour, autistic spectrum disorders; moderate or serious physical disability including personal care, stroke, diabetes, visual impairment and hearing impairment; mental health problems including depression, neurotic, personality and psychotic disorders, drugs and alcohol, suicide, adult survivors of childhood sexual abuse and early onset dementia."
   }
 ]

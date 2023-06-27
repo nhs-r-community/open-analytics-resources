@@ -24,9 +24,12 @@ The [NHS-R Community Training](https://nhs-r-community.github.io/NHSR-training/)
 
 [FEDIP courses](https://www.fedip.org/fedip-hub) - free for 6 months or free with an AphA membership(https://www.aphanalysts.org/) with CPD on courses from the University of Edinburgh. Includes introduction to Health Data Analytics with R, Introduction to Data Visualisation and Data Ethics for Health and Social Care. Sign up required.
 
-## MOOC (Massive Open Online Course
+[W3Schools](https://www.w3schools.com/) has tutorials and reference guides for a large number of software programs including Python, R, SQL, CSS and html.
+
+## MOOC (Massive Open Online Course)
 
 ### Future Learn
+
 * [Data Science for Healthcare: Using Real World Evidence](https://www.futurelearn.com/courses/data-science-healthcare)
 * [Health data analytics](https://www.futurelearn.com/courses/eit-health-data-analytics)
 * [Quality Improvement in Healthcare: the Case for Change](https://www.futurelearn.com/courses/quality-improvement)
@@ -67,11 +70,11 @@ Free [Git course](https://www.futurelearn.com/courses/collaborative-coding-with-
 
 ### Introduction to Python
 
-Analysis Function free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/introduction-to-python/).
+Analysis Function free online training to public sector and government employees [Introduction to Python](https://analysisfunction.civilservice.gov.uk/training/introduction-to-python/).
 
 ### Modular programming in Python and R
 
-Analysis Function free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/modular-programming-in-python-and-r/).
+Analysis Function free online training to public sector and government employees [Introduction to Python and R](https://analysisfunction.civilservice.gov.uk/training/modular-programming-in-python-and-r/).
 
 ### SQL
 
@@ -79,7 +82,7 @@ Free SQL training can be found on MOOCs and a particularly good one that has bee
 
 ### Introduction to Reproducible Analytical Pipelines (RAP)
 
-Analysis Function free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/introduction-to-reproducible-analytical-pipelines-rap/).
+Analysis Function free online training to public sector and government employees [Introduction to Reproducible Analytical Pipelines (RAP)](https://analysisfunction.civilservice.gov.uk/training/introduction-to-reproducible-analytical-pipelines-rap/).
 
 NHS England [Reproducible Analytical Pipelines (RAP)](https://nhsengland.github.io/nhs-r-reporting/tutorials/rap.html) in a Quarto site for self learning.
 

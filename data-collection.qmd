@@ -25,3 +25,17 @@ The [NHS Data Model and Dictionary](https://www.datadictionary.nhs.uk/) has been
 > Originally developed for the Department of Health, this system provides population data by age band, gender, and ethnic group.
 
 > Prevalence rates from research have been used to estimate the impact of: learning disability, including living with a parent, Down's syndrome, challenging behaviour, autistic spectrum disorders; moderate or serious physical disability including personal care, stroke, diabetes, visual impairment and hearing impairment; mental health problems including depression, neurotic, personality and psychotic disorders, drugs and alcohol, suicide, adult survivors of childhood sexual abuse and early onset dementia.
+
+## Small number suppression
+
+[Public Health Wales](https://phw.nhs.wales/about-us/policies-and-procedures/policies-and-procedures-documents/information-governance-information-management-and-technology-supporting-documents/small-numbers-publishing-guidance/) guidance in the Appendices is very useful in that it gives example situations for data suppression and how to handle them, including small denominator values, indirect disclosure and where self disclosure can cause distress.
+
+[UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/data-protection/disclosure-assessment/) assessing disclosure risk and managing risk has an example from a review showing the types of direct identifiers as well as variables affected by local knowledge.
+
+[Statistical disclosure dos and don'ts](http://wp.lancs.ac.uk/administrative-data-research/2021/08/27/statistical-disclosure-the-dos-and-donts/) blog from Lancaster University.
+
+[NHS Digital](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/data-quality/data-quality-maturity-index-methodology/suppression-rules) Suppression Rules for different data sets.
+
+[ONS](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/disclosurecontrol/policyonprotectingconfidentialityintablesofbirthanddeathstatistics) Policy on protecting confidentiality in tables of birth and death statistics.
+
+

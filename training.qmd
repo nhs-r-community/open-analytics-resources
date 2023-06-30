@@ -7,8 +7,10 @@
 
 The [NHS-R Community Training](https://nhs-r-community.github.io/NHSR-training/) book (built in Quarto) collects together the course summaries for training materials available through NHS-R Community and delivered as instructor led courses through [The Strategy Unit](https://nhs-r-community.github.io/NHSR-training/strategy-unit.html).
 
-### Government
+### Government {#AF}
 * [Data Science Campus](https://datasciencecampus.ons.gov.uk/) - with training and services for Government and Public Sector (which includes NHS and Local Authorities). Check for public sector status for [Departments, agencies and public bodies](https://www.gov.uk/government/organisations), note that this does not list every NHS organisation or Local Authority but does not mean they are excluded.
+
+* [Analysis Function training courses](https://analysisfunction.civilservice.gov.uk/training-courses/) sign up as a public sector/government person via [Data.Science.Campus.Faculty@ons.gov.uk](mailto:Data.Science.Campus.Faculty@ons.gov.uk)
 
 #### Specific related links
 
@@ -20,11 +22,11 @@ The [NHS-R Community Training](https://nhs-r-community.github.io/NHSR-training/)
 
 ## Other online free courses
 
-[HDR UK Futures for NHS](https://www.hdruk.ac.uk/futures-nhs/) - free online course materials available for anyone. Sign up required.
+* [HDR UK Futures for NHS](https://www.hdruk.ac.uk/futures-nhs/) - free online course materials available for anyone. Sign up required.
 
-[FEDIP courses](https://www.fedip.org/fedip-hub) - free for 6 months or free with an AphA membership(https://www.aphanalysts.org/) with CPD on courses from the University of Edinburgh. Includes introduction to Health Data Analytics with R, Introduction to Data Visualisation and Data Ethics for Health and Social Care. Sign up required.
+* [FEDIP courses](https://www.fedip.org/fedip-hub) - free for 6 months or free with an AphA membership(https://www.aphanalysts.org/) with CPD on courses from the University of Edinburgh. Includes introduction to Health Data Analytics with R, Introduction to Data Visualisation and Data Ethics for Health and Social Care. Sign up required.
 
-[W3Schools](https://www.w3schools.com/) has tutorials and reference guides for a large number of software programs including Python, R, SQL, CSS and html.
+* [W3Schools](https://www.w3schools.com/) has tutorials and reference guides for a large number of software programs including Python, R, SQL, CSS and html.
 
 ## MOOC (Massive Open Online Course)
 
@@ -36,56 +38,56 @@ The [NHS-R Community Training](https://nhs-r-community.github.io/NHSR-training/)
 
 ## Funding 
 
-HDRUK fund [Masters Courses](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/masters-programme/) at particular Universities. 
+* HDRUK fund [Masters Courses](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/masters-programme/) at particular Universities. 
 
 ## Specific software
 
 ### Introduction to R and R Studio
 
-The first Introduction to R and RStudio slides [published through GitHub](https://nhs-r-community.github.io/intro_r/) with the [GitHub repository](https://github.com/nhs-r-community/intro_r).
+* The first Introduction to R and RStudio slides [published through GitHub](https://nhs-r-community.github.io/intro_r/) with the [GitHub repository](https://github.com/nhs-r-community/intro_r).
 
-Analysis Function free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/introduction-to-r/).
+* [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/introduction-to-r/).
 
-NHS England [R Programming Language](https://nhsengland.github.io/nhs-r-reporting/tutorials/r-language.html) in a Quarto site for self learning.
+* NHS England [R Programming Language](https://nhsengland.github.io/nhs-r-reporting/tutorials/r-language.html) in a Quarto site for self learning.
 
 ### Introduction to RMarkdown
 
-[A workshop](https://github.com/nhs-r-community/intro_rmd) from the NHS-R Conference in 2021 based on the scripted way of delivering courses.
+* [A workshop](https://github.com/nhs-r-community/intro_rmd) from the NHS-R Conference in 2021 based on the scripted way of delivering courses.
 
-A slide based [course on RMarkdown](https://github.com/nhs-r-community/rmarkdown_intro) which was based on the conference workshop.
+* A slide based [course on RMarkdown](https://github.com/nhs-r-community/rmarkdown_intro) which was based on the conference workshop.
 
-NHS England [Quarto and RMarkdown](NHS England [GitHub training](https://nhsengland.github.io/nhs-r-reporting/tutorials/github.html) in a Quarto site for self learning.
+* NHS England [Quarto and RMarkdown](NHS England [GitHub training](https://nhsengland.github.io/nhs-r-reporting/tutorials/github.html) in a Quarto site for self learning.
 
 ### Git/GitHub
 
-[A workshop](https://github.com/nhs-r-community/git_training) from the NHS-R Conference in 2022 based on the scripted way of delivering courses and using the Terminal.
+* [A workshop](https://github.com/nhs-r-community/git_training) from the NHS-R Conference in 2022 based on the scripted way of delivering courses and using the Terminal.
 
-Not NHS-R but from the [NHS North Central London ICB Analytics Team](https://github.com/ncl-icb-analytics) an [Introduction to Git and GitHub](https://ncl-icb-analytics.github.io/intro_to_git/intro_slides.html#1) on the command line using a slide format.
+* Not NHS-R but from the [NHS North Central London ICB Analytics Team](https://github.com/ncl-icb-analytics) an [Introduction to Git and GitHub](https://ncl-icb-analytics.github.io/intro_to_git/intro_slides.html#1) on the command line using a slide format.
 
-NHS England [GitHub training](https://nhsengland.github.io/nhs-r-reporting/tutorials/github.html) in a Quarto site for self learning.
+* NHS England [GitHub training](https://nhsengland.github.io/nhs-r-reporting/tutorials/github.html) in a Quarto site for self learning.
 
-Analysis Function free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/introduction-to-git/).
+* [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/introduction-to-git/).
 
-Free [Git course](https://www.futurelearn.com/courses/collaborative-coding-with-git) on the FutureLearn MOOC platform.
+* Free [Git course](https://www.futurelearn.com/courses/collaborative-coding-with-git) on the FutureLearn MOOC platform.
 
 ### Introduction to Python
 
-Analysis Function free online training to public sector and government employees [Introduction to Python](https://analysisfunction.civilservice.gov.uk/training/introduction-to-python/).
+* [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Python](https://analysisfunction.civilservice.gov.uk/training/introduction-to-python/).
 
 ### Modular programming in Python and R
 
-Analysis Function free online training to public sector and government employees [Introduction to Python and R](https://analysisfunction.civilservice.gov.uk/training/modular-programming-in-python-and-r/).
+* [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Python and R](https://analysisfunction.civilservice.gov.uk/training/modular-programming-in-python-and-r/).
 
 ### SQL
 
-Free SQL training can be found on MOOCs and a particularly good one that has been split into smaller "mini-courses" is by [Stanford University](https://online.stanford.edu/courses/soe-ydatabases-databases) via the [Edx platform](https://www.edx.org/learn/sql). 
+* Free SQL training can be found on MOOCs and a particularly good one that has been split into smaller "mini-courses" is by [Stanford University](https://online.stanford.edu/courses/soe-ydatabases-databases) via the [Edx platform](https://www.edx.org/learn/sql). 
 
 ### Introduction to Reproducible Analytical Pipelines (RAP)
 
-Analysis Function free online training to public sector and government employees [Introduction to Reproducible Analytical Pipelines (RAP)](https://analysisfunction.civilservice.gov.uk/training/introduction-to-reproducible-analytical-pipelines-rap/).
+* [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Reproducible Analytical Pipelines (RAP)](https://analysisfunction.civilservice.gov.uk/training/introduction-to-reproducible-analytical-pipelines-rap/).
 
-NHS England [Reproducible Analytical Pipelines (RAP)](https://nhsengland.github.io/nhs-r-reporting/tutorials/rap.html) in a Quarto site for self learning.
+* NHS England [Reproducible Analytical Pipelines (RAP)](https://nhsengland.github.io/nhs-r-reporting/tutorials/rap.html) in a Quarto site for self learning.
 
 ### Train the Trainer
 
-[Slides](https://github.com/nhs-r-community/train_the_trainer) from a Train the Trainer course held by the Strategy Unit to support the Introduction to R and RStudio.
+* [Slides](https://github.com/nhs-r-community/train_the_trainer) from a Train the Trainer course held by the Strategy Unit to support the Introduction to R and RStudio.

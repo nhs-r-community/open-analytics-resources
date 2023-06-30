@@ -7,3 +7,13 @@ Includes travel times for public transport and car, demographics and building lo
 Managed by the Department of Health and Social Care
 
 [Local Health](https://www.localhealth.org.uk/#c=home) - "Quality assured small area health-related data visualised in maps, charts, area profiles, and reports." Managed by the Office for Health Improvement and Disparities (OHID) and allows for uploading of your own data.
+
+## Centroid mapping
+
+Sometimes you have a set of addresses but no way of mapping them. [The Office for National Statistics’ Open Geography Portal](http://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-latest-centroids) provides the centroids for all UK postcodes.
+
+Using R to get centroid information: https://www.trafforddatalab.io/recipes/gis/postcodes.html#
+
+Or weighted by LSOA area: https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-population-weighted-centroids
+
+Taken from [a blog](https://cdu-data-science-team.github.io/team-blog/posts/2021-05-14-mapping/) by the CDU Team.

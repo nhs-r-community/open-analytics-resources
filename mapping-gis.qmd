@@ -17,3 +17,13 @@ Using R to get centroid information: https://www.trafforddatalab.io/recipes/gis/
 Or weighted by LSOA area: https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-population-weighted-centroids
 
 Taken from [a blog](https://cdu-data-science-team.github.io/team-blog/posts/2021-05-14-mapping/) by the CDU Team.
+
+## Travel times
+
+[Wales-ish OTP Graph Generator](https://github.com/stupidpupil/wales_ish_otp_graph) - "assemble OpenTripPlanner, R5 and OSRM graphs that are useable for planning trips, by car or public transport, between places in Wales - including where these trips involve a short journey entirely within England. (It likely also works well enough for planning trips between places in Wales and a small number of English towns just the other side of the border.)"
+
+[Data Science Campus blog](https://datasciencecampus.ons.gov.uk/using-open-data-to-understand-hyperlocal-differences-in-uk-public-transport-availability/) - using open data to understand hyperlocal differences in uk public transport availability.
+
+[Using {sf} to calculate catchment areas](https://nhsrcommunity.com/using-sf-to-calculate-catchment-areas/) - from NHS-R blogs.
+
+[NHS Pycom nhs_time_of_travel](https://github.com/nhs-pycom/nhs_time_of_travel) - a collaborative open source project between NHS Python Community and Google Health, building on https://github.com/nhsx/nhs_time_of_travel

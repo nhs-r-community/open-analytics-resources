@@ -1,5 +1,11 @@
 # Knowledge resources 
 
+## NHS Branding
+
+[NHS Identity](https://www.england.nhs.uk/nhsidentity/) - main website detailing why branding is important to the NHS and specific [guidelines](https://www.england.nhs.uk/nhsidentity/identity-guidelines/) for colours, fonts, logo and so on.
+
+## Links from original Google doc
+
 Bakhshi, H, Mateos-Garcia J, Whitby A. (2014) _Model Workers - How leading Companies Are Recuiting and Managing Their Data Talent. Nesta._ Available at [Model Workers: How leading companies are recruiting and managing data talent | Nesta](https://www.nesta.org.uk/report/model-workers-how-leading-companies-are-recruiting-and-managing-data-talent/) [Accessed 20 March 2021]
 
 Bardsley M. (2016). _Understanding analytical capability in health care - Do we have more data than insight? Health Foundation._ Available at: [https://www.health.org.uk/sites/default/files/UnderstandingAnalyticalCapabilityInHealthCare.pdf](https://www.health.org.uk/sites/default/files/UnderstandingAnalyticalCapabilityInHealthCare.pdf) [Accessed: 26 June 2019]

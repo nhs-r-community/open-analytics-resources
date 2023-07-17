@@ -5,7 +5,7 @@
 ### NHS-R Community
 [NHS-R Community](https://nhsrcommunity.com/) - record all webinars and have conference talks and workshops from 2020 onwards found through the website which links to [YouTube](https://nhsrcommunity.com/). Introduction to R and R Studio training is being provided by volunteers each month with more training always encouraged and listed on the website.
 
-The [NHS-R Community Training](https://nhs-r-community.github.io/NHSR-training/) book (built in Quarto) collects together the course summaries for training materials available through NHS-R Community and delivered as instructor led courses through [The Strategy Unit](https://nhs-r-community.github.io/NHSR-training/strategy-unit.html).
+The [NHS-R Community Training](https://training.nhsrcommunity.com/) book (built in Quarto) collects together the course summaries for training materials available through NHS-R Community and delivered as instructor led courses through [The Strategy Unit](https://nhs-r-community.github.io/NHSR-training/strategy-unit.html).
 
 ### Government {#AF}
 * [Data Science Campus](https://datasciencecampus.ons.gov.uk/) - with training and services for Government and Public Sector (which includes NHS and Local Authorities). Check for public sector status for [Departments, agencies and public bodies](https://www.gov.uk/government/organisations), note that this does not list every NHS organisation or Local Authority but does not mean they are excluded.
@@ -45,6 +45,8 @@ The [NHS-R Community Training](https://nhs-r-community.github.io/NHSR-training/)
 ### Introduction to R and R Studio
 
 * The first Introduction to R and RStudio slides [published through GitHub](https://nhs-r-community.github.io/intro_r/) with the [GitHub repository](https://github.com/nhs-r-community/intro_r).
+
+* The latest Introduction to R and RStudio which is modular and has enough content for 3 half days can be found in the [NHS-R Training book](https://training.nhsrcommunity.com/).
 
 * [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Git](https://analysisfunction.civilservice.gov.uk/training/introduction-to-r/).
 

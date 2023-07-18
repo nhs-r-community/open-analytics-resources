@@ -1,5 +1,7 @@
 project:
   type: book
+  resources:
+    - CNAME
 book:
   title: "Open Analytics Resources"
   author: "NHS-R Community"
@@ -14,6 +16,7 @@ book:
     - training.qmd
     - code-of-practice-regulation-guidance.qmd
     - profession.qmd
+    - mapping-gis.qmd
     - knowledge-resource.qmd
     - data-collection.qmd
   page-footer:

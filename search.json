@@ -67,7 +67,7 @@
     "href": "reproducible-analytical-pipelines.html",
     "title": "5  Reproducible Analytical Pipelines - RAP",
     "section": "",
-    "text": "Government Statistical Service RAP is a comprehensive website detailing what RAP is, how it’s good practice and links to other resources.\nGovernment Statistical Service RAP Strategy published 20 June 2022\nArchived - A technical communication document written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline.\nNHS Community of Practice hosted by NHS England, developed by the former NHS Digital."
+    "text": "NHS England’s Community of Practice hosted by NHS England, developed by the former NHS Digital, this is an ongoing project including training resources, history of RAP and available for contribution through GitHub.\nGovernment Statistical Service RAP is a comprehensive website detailing what RAP is, how it’s good practice and links to other resources.\nGovernment Statistical Service RAP Strategy published 20 June 2022\nArchived - A technical communication document written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline."
   },
   {
     "objectID": "tools.html#nhs-number-validation",

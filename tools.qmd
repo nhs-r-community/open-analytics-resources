@@ -20,3 +20,23 @@ Note, no licence.
 ## Git resources
 
 [Git Command Glossary](https://github.com/datasciencecampus/gov-uk-rap-materials/blob/main/git-glossary/git-command-glossary.csv) part of the [Gov UK RAP Materials](https://github.com/datasciencecampus/gov-uk-rap-materials/tree/main).
+
+## APIs/packages {#api}
+
+### Python packages
+
+[Health indicator data sources](https://github.com/NIHR-BI/Health_Indicators/tree/main) from NIHR National Institute for Health and Care Research using Python
+
+### R packages
+
+[{nomisr}](https://docs.evanodell.com/nomisr/articles/introduction.html) can be used to access the API which can be built from the [webpage](https://www.nomisweb.co.uk/).
+
+[{onsr}](https://kvasilopoulos.github.io/onsr/) in Beta for ONS data.
+
+[{fingertipsR}](https://docs.ropensci.org/fingertipsR/) for Public Health data also available through the [website](https://fingertips.phe.org.uk/).
+
+[{boundr}](https://francisbarton.github.io/boundr/) to retrieve area boundaries and data from the ONS Open Geography Portal.
+
+[{lonlatapi}](https://github.com/francisbarton/lonlatapi)finds OA (Census output area) data from longitude and latitude data. Depends upon {boundr} being loaded.
+
+[{NHSRpostcodetools}](https://github.com/nhs-r-community/NHSRpostcodetools) package to work with England Postcodes in R

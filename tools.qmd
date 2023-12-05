@@ -16,3 +16,7 @@ Note, no licence.
 ### Python packages
 
 [nhs-number](https://github.com/uk-fci/nhs-number) - provides utilities for NHS Numbers, including validity checks, normalisation, and generation.
+
+## Git resources
+
+[Git Command Glossary](https://github.com/datasciencecampus/gov-uk-rap-materials/blob/main/git-glossary/git-command-glossary.csv) part of the [Gov UK RAP Materials](https://github.com/datasciencecampus/gov-uk-rap-materials/tree/main).

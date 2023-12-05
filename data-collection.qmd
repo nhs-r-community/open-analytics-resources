@@ -13,7 +13,7 @@ The [NHS Data Model and Dictionary](https://www.datadictionary.nhs.uk/) has been
 [NOMIS official census and labour market statistics](https://www.nomisweb.co.uk/) - managed by Office for National Statistics publishing statistics related to population, society and the labour market at national, regional and local levels. 
 Requires an account to save searches through API. 
 
-An R package called [{nomisr}](https://docs.evanodell.com/nomisr/articles/introduction.html) can be used to access the API.
+An R package called [{nomisr}](#api)
 
 [POPPI Projecting Older People Population Information](https://www.poppi.org.uk/) - requires registration. 
 

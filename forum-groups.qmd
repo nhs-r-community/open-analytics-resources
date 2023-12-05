@@ -35,28 +35,12 @@ As of 2022 hosted by [The Strategy Unit](https://www.strategyunitwm.nhs.uk/) par
 
 [R Ladies Global](https://rladies.org/) is an organization that promotes gender diversity in the community of users of the R statistical programming language.
 
-
-## South West Local - Requires verification June 2023
-
-[Bristol Data Scientists Meetup](https://www.meetup.com/Bristol-Data-Scientists/) - The aim of this meetup is to promote discussion, learning and interaction around Data Science in the South West. This is a group for statisticians, mathematicians, programmers, data scientists, data alchemists and anyone interested in using data for analytics. Aim to run meetings on a quarterly basis
-
-[Bristol Project Data Analytics Meetup ](https://www.meetup.com/Bristol-Project-Data-Analytics-Meetup/) - Meetup to share best practise on leveraging data within a project, programme and portfolio environment. This meetup will explore some of the challenges at the intersection of data analysis and project, programme and portfolio management and discuss how practitioners are working to resolve them,
-
-[Southwest Data Meetup](https://www.meetup.com/south-west-data/) - The Bristol-based holistic data group that is all things to do with managing, handling, analysing and delivering data in the mild mild South West.
-
-[Elizabeth Blackwell Institute Health Data Science Research Strand](https://www.bristol.ac.uk/blackwell/health-research/research-strands/health-data-science/) - A University of Bristol group of academics with an interest in making better use of routinely collected data. 
-
-[Local Digital Health Research and Development Group](http://www.bristolhealthpartners.org.uk/about-us/local-digital-health-research-development-group/) - Bristol Health Partners convenes a Local Digital Health Research and Development Group, bringing together academics, NHS organisations and local authorities in Bristol, North Somerset and South Gloucestershire (BNSSG).
-
 ## Midlands
 
-[The Strategy Unit ](https://www.strategyunitwm.nhs.uk/) - The Strategy Unit is a specialist NHS team, based in Midlands and Lancashire Commissioning Support Unit. 
+[The Strategy Unit ](https://www.strategyunitwm.nhs.uk/) - The Strategy Unit is a specialist NHS team, based in NHS Midlands and Lancashire Commissioning Support Unit. 
 They provide high-quality, multi-disciplinary analytical work as well as host the [Midlands Analyst Network](https://www.midlandsdecisionsupport.nhs.uk/communities-of-practice/midlands-analyst-network/) which is a fornightly virtual MS Teams meeting which is open to Network members.
 
-[Birmingham R User Group](https://www.meetup.com/BirminghamR/) Meetup
+## Coffee and Coding
 
-[NottinghamR R Users Group](https://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) Meetup
-
-[Women in Tech Nottingham](https://www.technottingham.com/wit-notts) and [Tech Nottingham](https://www.technottingham.com/) - monthly meetups open to everyone.
-
-
+NHS-R Community host a coffee and coding every other Friday at 11:00 – 12:00.
+Details are on the [blog](https://nhsrcommunity.com/coffee-and-code/).

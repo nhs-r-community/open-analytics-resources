@@ -1,6 +1,12 @@
 # Reproducible Analytical Pipelines - RAP {#RAP}
 
+Also see [training chapter](#rap-training) for RAP training.
+
+## NHS
+
 NHS England's [Community of Practice](https://nhsdigital.github.io/rap-community-of-practice/) hosted by NHS England, developed by the former NHS Digital, this is an ongoing project including training resources, [history of RAP](https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/history_of_RAP/) and available for contribution through [GitHub](https://github.com/NHSDigital/rap-community-of-practice).
+
+## Government
 
 [Government Statistical Service RAP](https://gss.civilservice.gov.uk/reproducible-analytical-pipelines/) is a comprehensive website detailing what RAP is, how it's good practice and links to other resources.
 

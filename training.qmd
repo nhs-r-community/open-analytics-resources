@@ -12,6 +12,10 @@ The [NHS-R Community Training](https://training.nhsrcommunity.com/) book (built 
 
 * [Analysis Function training courses](https://analysisfunction.civilservice.gov.uk/training-courses/) sign up as a public sector/government person via [Data.Science.Campus.Faculty@ons.gov.uk](mailto:Data.Science.Campus.Faculty@ons.gov.uk)
 
+### HSMA - Health Service Modelling Associates programme
+
+[YouTube channel](https://www.youtube.com/channel/UCCY9_Gxg6kM-xjk9vV0mzIQ) for teaching materials for the NIHR Applied Research Collaboration South West Peninsula (PenARC) [Health Service Modelling Associates programme](https://sites.google.com/nihr.ac.uk/hsma).
+
 #### Specific related links
 
 * [UK GOV- Government Analysis Function - Learning Curriculum](https://www.gov.uk/guidance/government-analysis-function-af-learning-curriculum) - “Whether you’re an experienced government analyst looking to refresh or develop your skills, or brand new to your role, a member of one (or more) of the analytical professions or not, the AF Learning Curriculum has something for everyone.”
@@ -84,7 +88,9 @@ The [NHS-R Community Training](https://training.nhsrcommunity.com/) book (built 
 
 * Free SQL training can be found on MOOCs and a particularly good one that has been split into smaller "mini-courses" is by [Stanford University](https://online.stanford.edu/courses/soe-ydatabases-databases) via the [Edx platform](https://www.edx.org/learn/sql). 
 
-### Introduction to Reproducible Analytical Pipelines (RAP)
+### Introduction to Reproducible Analytical Pipelines (RAP) {#rap-training}
+
+Also see the specific chapter on [RAP](#RAP)
 
 * [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Reproducible Analytical Pipelines (RAP)](https://analysisfunction.civilservice.gov.uk/training/introduction-to-reproducible-analytical-pipelines-rap/).
 

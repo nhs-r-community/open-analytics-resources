@@ -88,6 +88,10 @@ The [NHS-R Community Training](https://training.nhsrcommunity.com/) book (built 
 
 * Free SQL training can be found on MOOCs and a particularly good one that has been split into smaller "mini-courses" is by [Stanford University](https://online.stanford.edu/courses/soe-ydatabases-databases) via the [Edx platform](https://www.edx.org/learn/sql). 
 
+* The [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+
+* [Foundations of Structured Query Language (SQL)](https://analysisfunction.civilservice.gov.uk/training/foundations-of-sql/?_rt=MXwxfHNxbHwxNzA4MzU5NDIz&_rt_nonce=8a53a1f22c) - 1 day online course from the [Analysis Function](#AF).
+
 ### Introduction to Reproducible Analytical Pipelines (RAP) {#rap-training}
 
 Also see the specific chapter on [RAP](#RAP)

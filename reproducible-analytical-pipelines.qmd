@@ -13,3 +13,9 @@ NHS England's [Community of Practice](https://nhsdigital.github.io/rap-community
 [Government Statistical Service RAP Strategy](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/) published 20 June 2022
 
 Archived - [A technical communication document](https://ukgovdatascience.github.io/rap_companion/) written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline.
+
+## Books
+
+[Building reproducible analytical pipelines with R](https://raps-with-r.dev/)
+
+The author, Bruno Rodrigues, also gave a talk at the NHS-R/NHS.pycom Conference 2023 called [Doing Data Science that Stands the Test of Time with Reproducible Analytical Pipelines](https://www.youtube.com/watch?v=3uSbLT7ISPc&list=PLXCrMzQaI6c2RjLQvFWpW_1QA68qylKb9&index=1&t=124s)

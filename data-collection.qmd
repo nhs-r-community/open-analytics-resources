@@ -50,3 +50,17 @@ Specific online courses for data linkage is available through the [Analysis Func
 [Health Economics Unit NHS Guide](https://healtheconomicsunit.nhs.uk/wp-content/uploads/2022/02/Data-linkage-guide_January-2022.pdf) - "This guide to data linkage was produced to support NHS systems (such as ICSs and STPs), commissioners, providers, NHS England and NHS Improvement and arm’s-length bodies to co-learn and co-develop, and to share and spread best practice, learning and tools relating to data linkage that extends beyond primary and secondary care".
 
 [Faculty of Public Health - Health Knowledge](https://www.healthknowledge.org.uk/public-health-textbook/health-information/3b-sickness-health/data-linkage) - Data linkage within and across datasets
+
+## Analyst surveys
+
+### Coding in Analysis and Research Survey (CARS)
+
+Coordinated through the Analysis Function, this survey is open to all Government and Public Sector but reporting is only by departments or organisations if responses are high enough.
+
+Details on the [data collection](https://best-practice-and-impact.github.io/CARS/data_collection.html)
+
+[2023 results](https://best-practice-and-impact.github.io/CARS/summary.html)
+
+### Association of Professional Healthcare Analysts (AphA)
+
+Continuing Professional Development (CPD) Survey [blog, results and excel data](https://www.aphanalysts.org/ltnws/nhs-at-risk-of-losing-a-generation-of-data-analysts/)

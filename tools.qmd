@@ -17,7 +17,7 @@ Note, no licence.
 
 ### Scottish CHI Number
 
-[{phstools}]() - available on CRAN. A collection of methods for commonly undertaken analytical tasks, primarily developed for Public Health Scotland (PHS) analysts, but the package is also generally useful to others working in the healthcare space, particularly since it has functions for working with Community Health Index (CHI) numbers. The package can help to make data manipulation and analysis more efficient and reproducible.
+[{phsmethods}](https://github.com/Public-Health-Scotland/phsmethods/tree/master) - available on CRAN. A collection of methods for commonly undertaken analytical tasks, primarily developed for Public Health Scotland (PHS) analysts, but the package is also generally useful to others working in the healthcare space, particularly since it has functions for working with Community Health Index (CHI) numbers. The package can help to make data manipulation and analysis more efficient and reproducible.
 
 ### Python packages
 

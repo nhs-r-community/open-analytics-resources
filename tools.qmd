@@ -2,9 +2,11 @@
 
 [NHS-R Community Statement on Tools](https://nhs-r-community.github.io/statements-on-tools/) is a collaborative effort by the community inspired initially from difficulties faced when installing free tools such as R and R Studio. 
 
-## NHS Number validation
+## NHS Number/CHI number validation
 
 ### R packages
+
+#### England NHS Number
 
 [{nhsnumber}](https://github.com/cran/nhsnumber) - An R package to work with NHS numbers and their checksums.
 Available through CRAN.
@@ -12,6 +14,10 @@ Referred to in an NHSR Community blog [The “nhsnumber” package and the joy o
 
 [nhsnumbergenerator](https://github.com/samellisq/nhsnumbergenerator) - Generates Random NHS Numbers in R.
 Note, no licence.
+
+### Scottish CHI Number
+
+[{phstools}]() - available on CRAN. A collection of methods for commonly undertaken analytical tasks, primarily developed for Public Health Scotland (PHS) analysts, but the package is also generally useful to others working in the healthcare space, particularly since it has functions for working with Community Health Index (CHI) numbers. The package can help to make data manipulation and analysis more efficient and reproducible.
 
 ### Python packages
 

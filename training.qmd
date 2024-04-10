@@ -92,6 +92,20 @@ The [NHS-R Community Training](https://training.nhsrcommunity.com/) book (built 
 
 * [Foundations of Structured Query Language (SQL)](https://analysisfunction.civilservice.gov.uk/training/foundations-of-sql/?_rt=MXwxfHNxbHwxNzA4MzU5NDIz&_rt_nonce=8a53a1f22c) - 1 day online course from the [Analysis Function](#AF).
 
+* [Software Carpentry](https://swcarpentry.github.io/sql-novice-survey/)
+
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+
+* [Kaggle](https://www.kaggle.com/learn/intro-to-sql)
+
+* [SQLzoo Wiki page](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+* Blogs 
+    - <https://www.kdnuggets.com/5-free-university-courses-to-learn-databases-and-sql>
+    - <https://www.kdnuggets.com/5-free-courses-to-master-sql-for-data-science>
+    
+
+
 ### Introduction to Reproducible Analytical Pipelines (RAP) {#rap-training}
 
 Also see the specific chapter on [RAP](#RAP)

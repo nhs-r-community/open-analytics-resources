@@ -12,6 +12,10 @@ book:
   title: "Open Analytics Resources"
   author: "NHS-R Community"
   date: last-modified
+  comments:
+    hypothesis: true
+    giscus:
+      repo: nhs-r-community/open-analytics-resources
   chapters:
     - index.qmd
     - forum-groups.qmd

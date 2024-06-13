@@ -76,6 +76,10 @@ The [NHS-R Community Training](https://training.nhsrcommunity.com/) book (built 
 
 * Free [Git course](https://www.futurelearn.com/courses/collaborative-coding-with-git) on the FutureLearn MOOC platform.
 
+## Python
+
+Like for R, there are many resources online available for Python and the NHS.Pycom {#socials} have a page on [Resources](https://nhs-pycom.net/resources) to attempt to pull together some of those.
+
 ### Introduction to Python
 
 * [Analysis Function](#AF) free online training to public sector and government employees [Introduction to Python](https://analysisfunction.civilservice.gov.uk/training/introduction-to-python/).

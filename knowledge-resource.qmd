@@ -4,6 +4,18 @@
 
 [NHS Identity](https://www.england.nhs.uk/nhsidentity/) - main website detailing why branding is important to the NHS and specific [guidelines](https://www.england.nhs.uk/nhsidentity/identity-guidelines/) for colours, fonts, logo and so on.
 
+## Themes
+
+[NHS-R Community Quarto theme](https://github.com/nhs-r-community/quarto-nhs-theme)
+
+[NHS-R Community Quarto Report theme](https://github.com/nhs-r-community/quarto-report-nhs-theme)
+
+## Visualisations
+
+NHS England [Dashboard Data Design](https://nhsengland.github.io/data-viz-community-of-practice/dashboard_design/)
+
+Analysis Function [data visualisation for charts](https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-charts/)
+
 ## Links from original Google doc
 
 Bakhshi, H, Mateos-Garcia J, Whitby A. (2014) _Model Workers - How leading Companies Are Recuiting and Managing Their Data Talent. Nesta._ Available at [Model Workers: How leading companies are recruiting and managing data talent | Nesta](https://www.nesta.org.uk/report/model-workers-how-leading-companies-are-recruiting-and-managing-data-talent/) [Accessed 20 March 2021]

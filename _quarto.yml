@@ -33,7 +33,7 @@ book:
     left: |
       Open Analytics Resources by the NHS-R Community
 
-      NHS-R Community makes all of their materials publicly available under open source licenses
+      NHS-R Community makes all of their materials publicly available under open source licences
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   repo-url: https://github.com/Lextuga007/open-analytics-resources

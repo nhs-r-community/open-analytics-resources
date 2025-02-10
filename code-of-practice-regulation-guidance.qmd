@@ -12,9 +12,9 @@
 
 [Government Analysis Functional Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) - “The purpose of the Government Analysis Functional Standard is to set expectations for the planning and undertaking of analysis across government”
 
-[Guidance - PHE Data and Analysis Tools A-Z](https://www.gov.uk/government/publications/phe-data-and-analysis-tools-a-to-z/phe-data-and-analysis-tools-a-to-z) - Data and analysis tools from across Public Health England (previously known as the 'Data and knowledge gateway').
+[Guidance - Public Health England Data and Analysis Tools A-Z](https://www.gov.uk/government/publications/phe-data-and-analysis-tools-a-to-z/phe-data-and-analysis-tools-a-to-z) - Data and analysis tools from across Public Health England (previously known as the 'Data and knowledge gateway').
 
-[NICE Evidence Standards Framework for Digital Health Technologies (2019)](https://www.nice.org.uk/Media/Default/About/what-we-do/our-programmes/evidence-standards-framework/digital-evidence-standards-framework.pdf) - The framework describes standards for the evidence that should be available, or developed, for DHTs to demonstrate their value in the UK health and care system. Intended for use by technology developers to inform their evidence development plans, and by decision makers who are considering whether to commission a DHT.
+[NICE Evidence Standards Framework for Digital Health Technologies (2019)](https://www.nice.org.uk/Media/Default/About/what-we-do/our-programmes/evidence-standards-framework/digital-evidence-standards-framework.pdf) - The framework describes standards for the evidence that should be available, or developed, for Digital Health Technologies to demonstrate their value in the UK health and care system. Intended for use by technology developers to inform their evidence development plans, and by decision makers who are considering whether to commission a Digital Health Technology.
 
 Office for Statistics Regulation: [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/)
 

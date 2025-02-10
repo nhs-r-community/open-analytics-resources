@@ -38,7 +38,7 @@ As of 2022 hosted by [The Strategy Unit](https://www.strategyunitwm.nhs.uk/) par
 ## Midlands
 
 [The Strategy Unit ](https://www.strategyunitwm.nhs.uk/) - The Strategy Unit is a specialist NHS team, based in NHS Midlands and Lancashire Commissioning Support Unit. 
-They provide high-quality, multi-disciplinary analytical work as well as host the [Midlands Analyst Network](https://www.midlandsdecisionsupport.nhs.uk/communities-of-practice/midlands-analyst-network/) which is a fornightly virtual MS Teams meeting which is open to Network members.
+They provide high-quality, multi-disciplinary analytical work as well as host the [Midlands Analyst Network](https://www.midlandsdecisionsupport.nhs.uk/communities-of-practice/midlands-analyst-network/) which is a fortnightly virtual MS Teams meeting which is open to Network members.
 
 ## Coffee and Coding
 

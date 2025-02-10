@@ -1,7 +1,7 @@
 # Open Analytics Resources
 
 Originally a Google document is supported by the Association of Professional 
-Healthcare Analysts (ApHA), This Equals and Keyah Consulting, in collaboration 
+Healthcare Analysts (AphA), This Equals and Keyah Consulting, in collaboration 
 with the Health Foundation, released under a CC-BY-SA licence. 
 Attributions to AphA 2020. 
 Later this was copied by Zoë Turner into {bookdown} and now has been converted 

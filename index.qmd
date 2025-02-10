@@ -1,6 +1,6 @@
 # Open Analytics Resources for Health and Care {#intro}
 
-Originally a [Google document](https://docs.google.com/document/d/15unzokDyUQR_YLWFqBwVvds3C6B69sZn_3OQro9gB3E/edit#) is supported by the [Association of Professional Healthcare Analysts (ApHA)](https://www.aphanalysts.org/), [This Equals](http://thisequals.co.uk/) and [Keyah Consulting](https://keyahconsulting.com/), in collaboration with the [Health Foundation](https://health.org.uk/), released under a CC-BY-SA licence. 
+Originally a [Google document](https://docs.google.com/document/d/15unzokDyUQR_YLWFqBwVvds3C6B69sZn_3OQro9gB3E/edit#) is supported by the [Association of Professional Healthcare Analysts (AphA)](https://www.aphanalysts.org/), [This Equals](http://thisequals.co.uk/) and [Keyah Consulting](https://keyahconsulting.com/), in collaboration with the [Health Foundation](https://health.org.uk/), released under a CC-BY-SA licence. 
 Attributions to AphA 2020. 
 Later this was copied by Zoë Turner into {bookdown} and now has been converted into a Quarto book to be shared through the NHS-R Community.
 This document is still active.

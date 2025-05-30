@@ -49,4 +49,4 @@ Note, no licence.
 
 ## Shiny resources 
 
-[Shiny bascics](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
+[Shiny basics](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)

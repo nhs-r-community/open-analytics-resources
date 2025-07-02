@@ -11,7 +11,7 @@ This document is still active.
 This document is a resource for analysts and data scientists working in the 
 health and care sectors primarily, but not exclusively, in the UK.
 
-## Contributing
+## Contributing 
 
 Please see our 
 [guidance on how to contribute](https://tools.nhsrcommunity.com/contribution.html).

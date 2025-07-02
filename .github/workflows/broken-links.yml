@@ -12,7 +12,7 @@ jobs:
     - name: Checking links
       uses: ScholliYT/Broken-Links-Crawler-Action@v3
       with:
-        website_url: 'https://github.com/ScholliYT/Broken-Links-Crawler-Action'
+        website_url: 'https://nhs-r-community.github.io/open-analytics-resources/'
         exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com'
         verbose: 'true'
         max_retry_time: 30

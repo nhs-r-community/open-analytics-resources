@@ -12,45 +12,43 @@
 
 ## Visualisations
 
-NHS England [Dashboard Data Design](https://nhsengland.github.io/data-viz-community-of-practice/dashboard_design/)
+[NHS England Dashboard Data Design](https://nhsengland.github.io/data-viz-community-of-practice/dashboard_design/)
 
-Analysis Function [data visualisation for charts](https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-charts/)
+[Data Visualisation for Charts](https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-charts/)
 
 ## Links from original Google doc
 
-(2014) [Model Workers: How leading companies are recruiting and managing data talent | Nesta](https://www.nesta.org.uk/report/model-workers-how-leading-companies-are-recruiting-and-managing-data-talent/) [Accessed 20 March 2021]
+(2014). [Model Workers: How leading companies are recruiting and managing data talent | Nesta](https://www.nesta.org.uk/report/model-workers-how-leading-companies-are-recruiting-and-managing-data-talent/) [Accessed: 20 March 2021]
 
 (2016). [Understanding analytical capability in health care - Do we have more data than insight? Health Foundation.](https://www.health.org.uk/sites/default/files/UnderstandingAnalyticalCapabilityInHealthCare.pdf) [Accessed: 26 June 2019]
 
 (2019). [Untapped potential: Investing in health and care data analytics. Health Foundation](https://www.health.org.uk/sites/default/files/upload/publications/2019/Untapped%20potential.pdf) [Accessed: 26 June 2019]
 
-[A Nesta Guide](https://media.nesta.org.uk/documents/Public_Sector_Data_Analytics_-_A_Nesta_Guide_byCwKTI.pdf) [Accessed 5 July 2019]
+(2019). [A Nesta Guide](https://media.nesta.org.uk/documents/Public_Sector_Data_Analytics_-_A_Nesta_Guide_byCwKTI.pdf) [Accessed 5 July 2019]
 
 (2018). [Releasing eHealth Analytics into the Wild: Lessons Learnt from the SPHERE Project](https://research-information.bristol.ac.uk/files/160992845/Peter_Flach_Releasing_eHealth_Analytics_into_the_Wild.pdf) [Accessed: 3 July 2019]
 
 (2020) [What does it mean for NHSX to be an ‘open source’ organisation?](https://healthtech.blog.gov.uk/2019/04/23/what-does-it-mean-for-nhsx-to-be-an-open-source-organisation/) [Accessed: 23 April 2020]
 
-(2020). [Missing Numbers in Children’s Services: How better data could improve outcomes for children and young people](https://www.nesta.org.uk/report/missing-numbers-childrens-services/for children and young peopleata could improve outcomes for children and young people) [Accessed 20 March 2021]
+(2020). [Missing Numbers in Children’s Services: How better data could improve outcomes for children and young people](https://www.nesta.org.uk/report/missing-numbers-childrens-services/for children and young peopleata could improve outcomes for children and young people) [Accessed: 20 March 2021]
 
+(2021). [Bringing NHS data analysis into the 21st century](https://journals.sagepub.com/doi/full/10.1177/0141076820930666) [Accessed: 20 March 2021]
 
-
-[2021] Journal of the Royal Society of Medicine [Bringing NHS data analysis into the 21st century](https://journals.sagepub.com/doi/full/10.1177/0141076820930666) [Accessed 20 March 2021]
-
-Information Commissioner’s Office. (2020). Guidance on the AI auditing framework - Draft guidance for consultation. Available at: [https://ico.org.uk/media/about-the-ico/consultations/2617219/guidance-on-the-ai-auditing-framework-draft-for-consultation.pdf](https://ico.org.uk/media/about-the-ico/consultations/2617219/guidance-on-the-ai-auditing-framework-draft-for-consultation.pdf) [Accessed: 27 April 2020]
+(2020). [Guidance on the AI auditing framework - Draft guidance for consultation](https://www.pdpjournals.com/docs/888032.pdf) [Accessed: 30 May 2025]
 
 (2014) [Building An Analytical Roadmap : A Real Life Example. _WIPRO](https://www.sas.com/content/dam/SAS/en_my/doc/other2/building-analytical-roadmap.pdf) [Accessed: 3 July 2019]
 
-(2019) [Neuroscience patient identification using big data and fuzzy logic–An Alzheimer’s disease case study.](https://doi.org/10.1016/j.eswa.2019.06.049) [Accessed 27 April 2020]
+(2019) [Neuroscience patient identification using big data and fuzzy logic–An Alzheimer’s disease case study.](https://doi.org/10.1016/j.eswa.2019.06.049) [Accessed: 27 April 2020]
 
-(2017)  _The Guardian_ [Another NHS crisis looms – an inability to analyse data.].(https://www.theguardian.com/science/political-science/2017/feb/08/another-nhs-crisis-looms-an-inability-to-analyse-data) [Accessed: 26 June 2019]
+(2017)  [Another NHS crisis looms – an inability to analyse data.](https://www.theguardian.com/science/political-science/2017/feb/08/another-nhs-crisis-looms-an-inability-to-analyse-data) [Accessed: 26 June 2019]
 
 (2017). [Smarter State: Boosting analytical capacity in the NHS. _GovLab (with support from NHS England)](https://www.thegovlab.org/static/files/publications/nhs-health-report.pdf) [Accessed: 27 June 2019]
 
-Office for Statistics Regulation (2021) Statistical leadership: Making Analytical Insight Count Available at Statistical leadership: Making analytical insight count – Office for Statistics Regulation (statisticsauthority.gov.uk) [Accessed 20 March 2021]
+(2021). [Statistical leadership: Making Analytical Insight Count](https://osr.statisticsauthority.gov.uk/wp-content/uploads/2021/02/Statistical-leadership-Making-analytical-insight-count.1-1.pdf) [Accessed: 20 March 2021]
 
 (2019) [Dynamics of Data Science Skills: How can all sectors benefit from data science talent?](https://royalsociety.org/-/media/policy/projects/dynamics-of-data-science/dynamics-of-data-science-skills-report.pdf) [Accessed: 1 July 2018]
 
-* See also - [Dynamics of data science skills: What data professionals say about data science – career stories](https://royalsociety.org/-/media/policy/projects/dynamics-of-data-science/DES5847-3-Data-skills-case-studies-document.pdf)
+* See also - [Dynamics of Data Science Skills: What data professionals say about data science – career stories](https://royalsociety.org/-/media/policy/projects/dynamics-of-data-science/DES5847-3-Data-skills-case-studies-document.pdf)
 * See also - [Dynamics of Data Science: Models and mechanisms](https://royalsociety.org/-/media/policy/projects/dynamics-of-data-science/DES5847-2-Data-skills-models-and-mechanisms-document.pdf)
 
 (2017) [Open data in the health sector - Users, stories, products and recommendations_. Open Health Care UK](https://openhealthcare.org.uk/open-data-in-the-health-sector/) [Accessed: 28 June 2019]

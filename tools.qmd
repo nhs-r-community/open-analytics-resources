@@ -46,3 +46,7 @@ Note, no licence.
 [{lonlatapi}](https://github.com/francisbarton/lonlatapi)finds OA (Census output area) data from longitude and latitude data. Depends upon {boundr} being loaded.
 
 [{NHSRpostcodetools}](https://github.com/nhs-r-community/NHSRpostcodetools) package to work with England Postcodes in R
+
+## Shiny resources 
+
+[Shiny basics](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
